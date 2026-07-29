@@ -42,7 +42,21 @@
 
 
 
-1\. Objetivo
+\# 1. Objetivo
+
+
+
+Definir formalmente la clase ontológica \*\*Peligro\*\* dentro de la arquitectura de conocimiento de PrevInspect AI, estableciendo su significado, atributos, relaciones, restricciones y comportamiento, con el propósito de representar de manera única, consistente y reutilizable cualquier fuente, situación o condición con potencial de causar daño.
+
+
+
+Esta definición constituye una referencia oficial para el Sistema Experto y será utilizada por el motor de razonamiento, el motor normativo, el motor de aprendizaje y el grafo de conocimiento para realizar inferencias, identificar relaciones entre entidades y apoyar la toma de decisiones en materia de Seguridad y Salud en el Trabajo (SST).
+
+
+
+La clase \*\*Peligro\*\* representa el punto de partida para la evaluación del riesgo y la definición de medidas de control, formando parte del núcleo conceptual de la ontología de PrevInspect AI.
+
+
 
 2\. Definición Ontológica
 
@@ -85,6 +99,4 @@
 9\. Dependencias Ontológicas
 
 10\. Historial
-
-
 
