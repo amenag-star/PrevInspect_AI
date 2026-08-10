@@ -1,0 +1,849 @@
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.gitignore
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\app
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\docs
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\estructura_actual.txt
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\inventario_archivos.txt
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\notebooks
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\ontology
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\outputs
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\README.md
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\requirements.txt
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\src
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\COMMIT_EDITMSG
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\config
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\description
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\HEAD
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\hooks
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\index
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\info
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\logs
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\objects
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\refs
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\hooks\applypatch-msg.sample
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\hooks\commit-msg.sample
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\hooks\fsmonitor-watchman.sample
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\hooks\post-update.sample
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\hooks\pre-applypatch.sample
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\hooks\pre-commit.sample
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\hooks\pre-merge-commit.sample
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\hooks\pre-push.sample
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\hooks\pre-rebase.sample
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\hooks\pre-receive.sample
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\hooks\prepare-commit-msg.sample
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\hooks\push-to-checkout.sample
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\hooks\sendemail-validate.sample
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\hooks\update.sample
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\info\exclude
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\info\refs
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\logs\HEAD
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\logs\refs
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\logs\refs\heads
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\logs\refs\remotes
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\logs\refs\heads\main
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\logs\refs\remotes\origin
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\logs\refs\remotes\origin\main
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\objects\01
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\objects\14
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\objects\3e
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\objects\57
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\objects\8a
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\objects\8f
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\objects\93
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\objects\c1
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\objects\ee
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\objects\f5
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\objects\fd
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\objects\fe
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\objects\info
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\objects\pack
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\objects\01\b03a33b9ff828a9a908738e590ab1ca7c97084
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\objects\14\172310285e60b2bc11fa1c4cd08af5ee4f28d1
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\objects\3e\7c21272c8991851394195da4ff50b38a08bff8
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\objects\57\6395db1c5f1c2261e305fe8a8575546a68869d
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\objects\8a\0eb59deb3896eb7e93ea870b02cfea20f5a12f
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\objects\8f\6f71524560e0d6f0acb8682e504714d98a9523
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\objects\93\e9f7168d6c4daf6b967894037e47685bc6c72c
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\objects\c1\148f9331ee768a7026a3961b594bf7312f2b95
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\objects\ee\656a184f87f8e4e34dd13668d9b315732ae7e8
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\objects\ee\b96f6edb96001a916fc0abbfa976b8fd245495
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\objects\f5\1205be937a95011ac4ac1544c0bef356b09bb6
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\objects\fd\03ce56a6b9ab871c7ab0d555dfac3290950e87
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\objects\fe\f48afc24511321fb88f96552d5f88859a372a1
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\objects\info\packs
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\objects\pack\multi-pack-index
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\objects\pack\pack-fd5931b2110ddc99821691a8c820097ec6526b62.idx
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\objects\pack\pack-fd5931b2110ddc99821691a8c820097ec6526b62.pack
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\objects\pack\pack-fd5931b2110ddc99821691a8c820097ec6526b62.rev
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\refs\heads
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\refs\remotes
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\refs\tags
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\refs\heads\main
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\refs\remotes\origin
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\.git\refs\remotes\origin\main
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\app\streamlit_app.py
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\01_legislacion
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\02_interpretaciones_oficiales
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\03_sistemas_de_gestion
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\04_protocolos
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\05_mutualidades
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\06_formularios
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\07_listas_chequeo
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\08_procedimientos
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\09_reglamentos_internos
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\10_casos_reales
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\11_auditorias
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\12_buenas_practicas
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\13_lecciones_aprendidas
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\14_conocimiento_experto
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\aprendizaje_operacional
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\casos_prueba
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\catalogos
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\ejemplos
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\knowledge_base
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\processed
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\raw
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\versionado_normativo
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\01_legislacion\codigo_trabajo
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\01_legislacion\constitucion
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\01_legislacion\decretos_supremos
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\01_legislacion\leyes
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\01_legislacion\normas_chilenas
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\01_legislacion\reglamentos
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\01_legislacion\resoluciones
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\02_interpretaciones_oficiales\contraloria
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\02_interpretaciones_oficiales\direccion_trabajo
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\02_interpretaciones_oficiales\minsal
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\02_interpretaciones_oficiales\otras_autoridades
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\02_interpretaciones_oficiales\seremi
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\02_interpretaciones_oficiales\suseso
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\03_sistemas_de_gestion\iso_14001
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\03_sistemas_de_gestion\iso_31000
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\03_sistemas_de_gestion\iso_45001
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\03_sistemas_de_gestion\iso_9001
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\03_sistemas_de_gestion\ohsas_18001
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\06_formularios\diat
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\06_formularios\diep
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\06_formularios\fuf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\06_formularios\otros
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\14_conocimiento_experto\casos
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\14_conocimiento_experto\experiencia
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\14_conocimiento_experto\investigaciones
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\14_conocimiento_experto\trabajos
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\diat
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\diep
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\listas_chequeo
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\mutualidades
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\normativa
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\reglamentos_internos
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\suseso
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\diat\articles-19908_formularios_diat.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\diep\articles-19908_formularios_diep.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\listas_chequeo\articles-108710_recurso_1.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\listas_chequeo\articles-59852_recurso_1.docx
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\listas_chequeo\articles-61344_recurso_1.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\listas_chequeo\autoevaluacion-inicial-de-riesgos-criticos-v4.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\listas_chequeo\Check List Para Residuos PELIGROSOS.xlsx
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\listas_chequeo\formato-programa-de-trabajo-preventivo (1).xlsx
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\listas_chequeo\formulario-£nico-de-fiscalizaci¢n.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\listas_chequeo\Guia-para-la-identificacion-y-evaluacion-de-riesgos-en-los-lugares-de-trabajo-v3-2024.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\mutualidades\achs
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\mutualidades\isl
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\mutualidades\ist
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\mutualidades\mutual_cchc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\mutualidades\achs\achs-accidentes-graves-y-fatales.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\mutualidades\achs\achs_guia_seguridad_en_maquinas_final.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\mutualidades\achs\elementos-proteccion-personal.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\mutualidades\achs\exposicion-radiacion-uv.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\mutualidades\achs\manual-defensas-maquinas.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\mutualidades\achs\manual-prevencion-riesgos-electricos.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\mutualidades\achs\operaciones-sustancias-peligrosas-1.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\mutualidades\achs\procedimiento-para-establecer-vias-de-evacuaci¢n.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\mutualidades\achs\protocolos-ministerio-de-salud-trastornos-musculoesquel‚ticos-relacionados-al-trabajo-tmert.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\mutualidades\achs\que-hacer-frente-a-riesgo-de-incendio.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\mutualidades\achs\qu‚-hacer-frente-a-un-evento-s¡smico.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\mutualidades\achs\ubicacion-y-senhal‚tica-para-extintores.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\mutualidades\mutual_cchc\fap-preguntas-frecuentes-protocolo-de-vigilancia-v2.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\normativa\Decreto-1052-EXENTO_14-OCT-2013.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\normativa\Decreto-10_19-OCT-2013.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\normativa\Decreto-10_25-SEP-2010.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\normativa\Decreto-15_29-ABR-2021.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\normativa\Decreto-18_03-JUL-2020.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\normativa\Decreto-1_22-MAY-2021.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\normativa\Decreto-21_11-MAY-2019.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\normativa\Decreto-38_26-DIC-2012.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\normativa\Decreto-39_11-OCT-2013.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\normativa\Decreto-44_27-JUL-2024.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\normativa\Decreto-4_08-MAY-2020.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\normativa\Decreto-57_09-FEB-2021.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\normativa\Decreto-804-EXENTO_08-OCT-2012.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\normativa\DFL-101_23-OCT-1989.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\normativa\DFL-19_13-JUL-1984.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\normativa\DFL-2_08-ABR-1986.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\normativa\DFL-50_17-MAY-1979.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\normativa\DFL-54_05-AGO-1987.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\normativa\DFL-90_01-DIC-1987.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\normativa\DTO-101_07-JUN-1968.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\normativa\DTO-109_07-JUN-1968.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\normativa\DTO-138_17-NOV-2005.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\normativa\DTO-144_26-JUL-1985.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\normativa\DTO-148_16-JUN-2004.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\normativa\DTO-190_31-OCT-2005.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\normativa\DTO-285_26-FEB-1969.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\normativa\DTO-289_13-NOV-1989.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\normativa\DTO-313_12-MAY-1973.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\normativa\DTO-54_11-MAR-1969.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\normativa\DTO-594_29-ABR-2000.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\normativa\DTO-63_12-SEP-2005.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\normativa\DTO-655_07-MAR-1941.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\normativa\DTO-67_07-MAR-2000.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\normativa\DTO-67_30-SEP-2008.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\normativa\DTO-68_03-OCT-1983.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\normativa\DTO-735_19-DIC-1969.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\normativa\DTO-76_18-ENE-2007.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\normativa\LEY-16744_01-FEB-1968.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\normativa\LEY-17322_19-AGO-1970.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\normativa\LEY-19260_04-DIC-1993.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\normativa\LEY-19345_07-NOV-1994.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\normativa\LEY-19419_09-OCT-1995.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\normativa\LEY-20001_05-FEB-2005.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\normativa\LEY-20123_16-OCT-2006.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\normativa\LEY-20255_17-MAR-2008.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\normativa\Ley-20584_24-ABR-2012.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\normativa\Ley-21220_26-MAR-2020.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\normativa\Ley-21260_04-SEP-2020.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\normativa\Ley-21275_21-OCT-2020.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\normativa\Ley-21342_01-JUN-2021.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\normativa\Ley-21409_25-ENE-2022.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\normativa\Ley-21643_15-ENE-2024 (1).pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\normativa\Ley-21643_15-ENE-2024.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\normativa\Resolucion-1141-EXENTA_30-MAY-2013.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\normativa\Resolucion-140-EXENTA_08-FEB-2017.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\normativa\Resolucion-1497-EXENTA_06-DIC-2017.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\normativa\Resolucion-22-EXENTA_10-FEB-2018.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\normativa\Resolucion-268-EXENTA_03-JUN-2015.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\normativa\Resolucion-402-EXENTA_16-MAR-2018.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\normativa\Resolucion-591-EXENTA_25-JUL-2020.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\reglamentos_internos\1. FORMATO IRL (ex ODI).docx.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\reglamentos_internos\16- OPERADOR DE MAQUINARIA.doc.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\reglamentos_internos\REGLAMENTO INTERNO HIGIENE Y SEGURIDAD RIHS 2026 DS 44 maximo 10 trabajadores.docx
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\iso9001
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ohsas
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\Manual_Calidad_ rev.0 2009.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\Medici¢n.ObjetivosCalidad-A2-MC.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\PE-7-09 Adquisici¢n de productos1-04-11-2015.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\1 DO-5-01 Politica de Gesti¢n Integral.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\1 DO-5-01 Politica de Gesti¢n Integral_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\1 IT-01_PC-4-01 Elaboraci¢n de documentos.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\1 IT-01_PC-4-01 Elaboraci¢n de documentos_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\1 IT-01_PC-4-01 Elaboraci¢n de documentos_2.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\1_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\1_10.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\1_11.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\1_12.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\1_13.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\1_14.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\1_15.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\1_16.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\1_17.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\1_18.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\1_19.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\1_2.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\1_20.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\1_3.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\1_4.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\1_5.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\1_6.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\1_7.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\1_8.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\1_9.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\1¦ Informe.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\1¦ Informe_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\2 DO-5-01 POLÖTICA INTEGRADA.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\2 DO-5-01 POLÖTICA INTEGRADA_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\2 IT-02_PC-4-1 Elaboraci¢n de carta y fax.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\2 IT-02_PC-4-1 Elaboraci¢n de carta y fax_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\2 IT-02_PC-4-1 Elaboraci¢n de carta y fax_2.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\3  FO-03 - PE-7-11 Solicitud de Contrato.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\3  FO-03 - PE-7-11 Solicitud de Contrato_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\3 IT-01_PC-8-01 Plan de Auditoria.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\3 IT-01_PC-8-01 Plan de Auditoria_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\3 IT-01_PC-8-01 Plan de Auditoria_2.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\3 PE-7-03 Plan de Proceso Linea Principal.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\3 PE-7-03 Plan de Proceso Linea Principal_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\3 PE-7-03 Plan de Proceso Linea Principal_2.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\4  FO-04 - PE-7-11 Solicitud de Modificaci¢n de Contrato.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\4  FO-04 - PE-7-11 Solicitud de Modificaci¢n de Contrato_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\4 DO-501 POLITICA DE LA CALIDAD.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\4 DO-501 POLITICA DE LA CALIDAD_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\4 IT-02_PC-8-01 Informe de auditor¡a interna.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\4 IT-02_PC-8-01 Informe de auditor¡a interna_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\4 IT-02_PC-8-01 Informe de auditor¡a interna_2.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\4_11_2_modelo_contratas.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\A1-IGC-02 For.de Encuesta a Clientes_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\A1-IGC-02 For.de Encuesta a Clientes_2.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\A1-IGC-02 For.de Encuesta a Clientes_3.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\A1-PAA01.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\A1-PAA01_1.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\A1-PCC01-ListaMaestraDoc..doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\A1-PCC01-ListaMaestraDoc.12.12.03.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\A1-PCC01-ListaMaestraDoc.13.09.03.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\A1-PCC01-ListaMaestraDoc.13.09.03_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\A1-PCC01-ListaMaestraDoc._1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\A1-PCC01-ListaMaestraDoc._2.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\A1-PCC01-ListaMaestraDoc._3.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\A1-PCC01-ListaMaestraDoc._4.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\A1-PCC01-ListaMestrapin.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\A1-PCC01-ListaMestrapin_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\A1-PCC01-ListaMestrapin_2.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\A1-PCC01-ListaMestrapin_3.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\A1-PCC02.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\A1-PCC02_1.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\A1-PCC04-Plan de la Auditoria-2004.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\A1-PCC04-Plan de la Auditoria.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\A1-PCC06-ListadoCargos-reemplazo.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\A1-PCC06-ListadoCargos-reemplazo_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\A1-PCO01.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\A1-PCO01_1.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\A1-PCO01_2.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\A1-PCO02-protocolo.inspeccion.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\A1-PCO02-protocolo.inspeccion_1.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\A1-PCO02-protocolo.inspeccion_2.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\A1-PCO02-protocolo.inspeccion_3.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\A1-PCO03-ListadoInstr.medicion.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\A1-PCO03-ListadoInstr.medicion_1.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\A1-PCO05.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\A1-PCO05_1.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\A1-PCO05_2.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\A1-PCO05_3.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\A1-PDI01.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\A1-PDI01_1.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\A1-PDI01_2.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\A1-PDI01_3.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\A1-PGG02-Plan.Rev.Gerencia2004.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\A1-PGG02_actas.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\A1-PGG02_actas_1.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\A1-PGG02_actas_2.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\A1-PGG08 22.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\A1-PGG08 22_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\A1-pgg08 23.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\A1-pgg08 23_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\A1-pgg08 24.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\A1-pgg08 24_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\A1-pgg08 25.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\A1-pgg08 25_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\A1-pgg08 26.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\A1-pgg08 26_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\A1-pgg08 silicitud de accion correctiva o preventiva.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\A1-pgg08 silicitud de accion correctiva o preventiva_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\A1-pgg08.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\FO-01 PC 8-02 Informe de Producto No Conforme 02 RRHH LIQUIDACIONES.docx
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\FO-01 PC 8-02 Informe de Producto No Conforme.docx
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\FO-01 PE 5-03 Evaluaci¢n de cumplimiento de la legislaci¢n.docx
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\FO-01 PE-7-05 PRUEBA DE CARGA.docx
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\FO-01-PE-7-08 Programaci¢n de Mantenci¢n.docx
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\FO-01_5-02 Informe previo a Rev. Gerencia.docx
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\FO-01_PC-8-01 Plan de auditor¡a.docx
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\FO-01_PC-8-03 Solicitud AC AP.docx
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\FO-01_PE-6-01 Solicitud de formaci¢n y-o Ent.docx
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\FO-01_PE-7-01 Solicitud de Presupuesto.docx
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\FO-01_PE-7-02 Atenci¢n Reclamo Clientes (mod.1).docx
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\FO-01_PE-7-03 Programa de Producci¢n.docx
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\FO-02 PE 5-03 Matr¡z de identificaci¢n de aspectos ambientales.docx
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\FO-02-PE-7-04 Acta de reunion de partida.docx
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\FO-02_5-02 Acta de la Rev. Gerencia.docx
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\FO-02_PC-4-01 Modelo de fax.docx
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\FO-02_PC-8-01 Informede auditor¡a interna.docx
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\FO-02_PE-6-01 Evaluaci¢n de formaci¢n y Entren.docx
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\FO-02_PE-6-02 Solicitud de trabajo para mantenci¢n (2).docx
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\FO-02_PE-7-01 Hoja de Inicio (2).docx
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\FO-02_PE-7-07 Registro de capacitaci¢n, inducci¢n o charla.docx
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\FO-03-PE-7-01 REVISION Y SOLICITUD DE CONTRATO (Rev 1).docx
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\FO-03-PE-7-01 REVISION Y SOLICITUD DE CONTRATO (Rev 1).dot
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\FO-03-PE-7-04 Planificaci¢n Revisi¢n y Verificaci¢n del Dise¤o (3).docx
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\FO-03-PE-7-07 Autocontrol torque (2).docx
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\FO-03_PC-8-01 Registro de Entrevistados de Auditoria.docx
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\FO-03_PE-6-01 Ficha de Inspecci¢n (1).docx
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\FO-03_PE-6-01 Registro de Asistencia (1).docx
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\FO-03_PE-7-09 Registro de proveedores aprobados.docx
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\FO-04-PE-7-01 Control de entrega de documentos.docx
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\FO-04-PE-7-01 Control de entrega de documentos.dot
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\FO-04-PE-7-04 Lista maestra de planos y su distribucion.docx
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\FO-04-PE-7-07 Protocolo verificaci¢n sistema insertos (0).docx
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\FO-04_PE-6-01 Programa de Inducci¢n (3).docx
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\FO-04_PE-7-09 Orden Compra (2).rtf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\FO-04_PE-7-09 ORDEN DE COMPRA.rtf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\FO-04_PE-7-09 ORDEN DE COMPRA_1.rtf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\FO-04_PE-7-09 ORDEN DE COMPRA_2.rtf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\FO-05-PE-7-04 Envio de Documentos.docx
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\FO-05_PE-6-01 Programa anual de formaci¢n.docx
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\FO-06-PE-7-04 Orden de trabajo.docx
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\FO-06_PE-6-01 Solicitud de  Personal.docx
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\FO-07_PE-6-01 Solicitud de Contrataci¢n o Modificaci¢n del Cargo.docx
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\Formato Comite Psicosocial.docx
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\form_inspecci¢n_planeada.docx
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\foro 14.docx
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\foro.docx
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\foro2.docx
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\foro8.2.docx
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\Foro8.docx
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\Grado 8.docx
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\gth-p-17.docx
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\guia auditor.docx
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\Guia_Inspecciones_seguridad.docx
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\idtablagoogle.docx
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\Informe de P_S N_C N 18_15.docx
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\Informe de P_S N_C N 19_15.docx
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\Informe de P_S N_C N 27_15.docx
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\IO-ICO01-Armado Estructural.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\IO-ICO01-Armado Estructural_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\IO-ICO01-Armado Estructural_2.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\IO-ICO02-Armado Mecanico.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\IO-ICO02-Armado Mecanico_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\IO-ICO02-Armado Mecanico_2.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\IO-ICO03-Inspeccion Soldadura.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\IO-ICO03-Inspeccion Soldadura_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\IO-ICO03-Inspeccion Soldadura_2.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\IO-PAA03-Manip.y Almacenamiento.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\IO-PAA03-Manip.y Almacenamiento_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\IO-PAA04 DespachoyRetiroProveedor.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\IO-PAA04-CL Despacho Cliente.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\IO-PAA04-CL Despacho Cliente_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\IO-PCO03-Calibraciones y Verificaciones.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\IO-POP06.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\ISO 9001-2008.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\IT-01_PE-7-05 Recepci¢n de Materias Primas e Insumos (Enoac).doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\IT-01_PE-7-05 Recepci¢n de Materias Primas e Insumos (Enoac)_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\IT-02-PE-7-05 Entrega de Insumos (Enoac).doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\IT-02-PE-7-05 Entrega de Insumos (Enoac)_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\IT-03-PE-7-05 Entrega de Art. de Escritorio (Enoac).doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\IT-03-PE-7-05 Entrega de Art. de Escritorio (Enoac)_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\la-maquina-que-cambio-al-mundo1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\Ley 16744 Art¡culo 4.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\Ley 16744 Art¡culo 66.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\Ley 16744 Art¡culo 66bis.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\Ley 16744 Art¡culo 66bis_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\Ley 16744 Art¡culo 67.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\Ley 16744 Art¡culo 70.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\Ley 19419 Art¡culo 11.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\LIB.019 - Manual implantacion OHSAS 18001.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\list maest reg.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\list maest reg_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\list maest reg_2.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\LISTA CHEQUEO BPM_Abril_2008.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\Lista de documentos.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\lista iMpromas.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\lista iMpromas_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\Lista registro.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\LISTADO DE CARPETAS Y CONTROLES.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\LISTADO DE CARPETAS Y CONTROLES_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\LISTADO DE CARPETAS Y CONTROLES_2.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\LISTADO DE OBRAS Y CONTROLES.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\LISTADO DE OBRAS Y CONTROLES_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\LISTADO DE OBRAS Y CONTROLES_2.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\Listado de peligros seg£n OIT.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\Listado personal.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\listado-reemplazo.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\listado-reemplazo_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\listado-reemplazo_2.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\listado-reemplazo_3.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\Los perfiles tubulares de Cintac.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\Manual de la calidad.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\Manual de la calidad_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\Medici¢n.ObjetivosCalidad-A2-MC.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\Medici¢n.ObjetivosCalidad-A2-MC_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\Medici¢n.ObjetivosCalidad-A2-MC_2.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\Medidas Urgentes05.02.04.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\Medidas Urgentes05.02.04_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\memo.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\memo_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\mena_andres_evaluacion_semana1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\Metodolog¡a para la implementaci¢n de un sistema documental .doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\MIO-BitacoraISO-9000.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\MIO-BitacoraISO-9000_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PAA01.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PAA01_1.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PAA01_2.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PAA01_3.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PAA02.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PAA02_1.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PAA02_2.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PAA02_3.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PAA02_4.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PAA03.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PAA03_1.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PAA04.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PAA04_1.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PC-4-01 CONTROL DE DOCUMENTOS.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PC-4-01 CONTROL DE DOCUMENTOS_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PC-4-02 CONTROL DE REGISTROS.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PC-4-02 CONTROL DE REGISTROS_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PC-8-01 AUDITORIAS INTERNAS.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PC-8-01 AUDITORIAS INTERNAS_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PC-8-02 CONTROL DEL PRODUCTO NO CONFORME.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PC-8-02 CONTROL DEL PRODUCTO NO CONFORME_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PC-8-03 ACCIONES CORRECTIVAS Y PREVENTIVAS.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PC-8-03 ACCIONES CORRECTIVAS Y PREVENTIVAS_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\Pcc01.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PCC01_1.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\Pcc01_2.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PCC01_3.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PCC02.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PCC02_1.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\Pcc03.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PCC03_1.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PCC03_2.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PCC04.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PCC04_1.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PCC05.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PCC05_1.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PCC06-A.Datos.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PCC06-A.Datos_1.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PCC06.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PCC06.V.1.-Analisis Datos-rechazadoHS.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PCC06.V.1.-Analisis Datos-rechazadoHS_1.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PCC06_1.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\Pcc07.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\Pcc07_1.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PCO01.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PCO01_1.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PCO01_2.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PCO01_3.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PCO02.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PCO02_1.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PCO02_2.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PCO02_3.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PCO03.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PCO03_1.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PCO04.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PCO04_1.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PCO04_2.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PCO04_3.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\Pco05.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\Pco05_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\Pco05_2.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PDI01.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PDI01_1.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PDI01_2.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PDI01_3.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PDI01_4.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PDI01_5.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PDI01_6.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PDI01_7.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-10-04 Adquisici¢n de productos.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-10-04 Adquisici¢n de productos_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-11-03 Control de satisfaci¢n del cliente.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-11-03 Control de satisfaci¢n del cliente_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-5-01 Comunicaci¢n Interna.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-5-01 Comunicaci¢n Interna_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-5-01 Comunicaci¢n Interna_2.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-5-02 Revisi¢n por la Gerencia.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-5-02 Revisi¢n por la Gerencia_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-5-02 Revisi¢n por la Gerencia_2.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-6-01 Competencia toma de conciencia y capacitaci¢n1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-6-01 Competencia, toma de conciencia y capacitaci¢n.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-6-01 Competencia, toma de conciencia y capacitaci¢n_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-6-01 Competencia, toma de conciencia y capacitaci¢n_2.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-6-02 Plan de Mantenimiento.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-6-02 Plan de Mantenimiento_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-6-02 Plan de Mantenimiento_2.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-7-01 Proceso de Comercializaci¢n.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-7-01 Proceso de Comercializaci¢n_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-7-01 Proceso de Comercializaci¢n_2.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-7-01 Proceso de Comercializaci¢n_3.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-7-01 Proceso de Comercializaci¢n_4.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-7-02 Atenci¢n Reclamo Cliente..doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-7-02 Atenci¢n Reclamo Cliente._1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-7-02 Atenci¢n Reclamo Cliente._2.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-7-03 Atenci¢n Reclamo Cliente.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-7-03 Atenci¢n Reclamo Cliente_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-7-03 Planificaci¢n para la realizaci¢n del producto_servicio.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-7-03 Planificaci¢n para la realizaci¢n del producto_servicio_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-7-03 Planificaci¢n para la realizaci¢n del producto_servicio_2.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-7-04 PROCESO DE DIs y des.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-7-04 PROCESO DE DISE¥O Y DESARROLLO (2).doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-7-04 PROCESO DE DISE¥O Y DESARROLLO (2)_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-7-04 PROCESO DE DISE¥O Y DESARROLLO (2)_2.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-7-05 Plan de Proceso Linea Corte, ensamble y soldadura. OK.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-7-05 Plan de Proceso Linea Corte, ensamble y soldadura. OK_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-7-05 Plan de Proceso Linea Corte, ensamble y soldadura. OK_2.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-7-05 Plan de Proceso Materias Primas e Insumos (Enoac).doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-7-05 Plan de Proceso Materias Primas e Insumos (Enoac)_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-7-05 Plan de Proceso Materias Primas e Insumos (Enoac)_2.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-7-06 Plan de Proceso Linea Armado mecanico ok.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-7-06 Plan de Proceso Linea Armado mecanico ok_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-7-07 Plan de Proceso de Montaje2.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-7-07 Plan de Proceso de Montaje_2.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-7-08 Plan de Proceso Servicio de Mantenci¢n.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-7-08 Plan de Proceso Servicio de Mantenci¢n_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-7-08 Plan de Proceso Servicio de Mantenci¢n_2.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-7-09 Adquisici¢n de productos.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-7-09 Adquisici¢n de productos_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-7-09 Adquisici¢n de productos_2.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-7-10 Control de equipos e instrumentos de medicion.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-7-10 Control de equipos e instrumentos de medicion_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-7-10 Control de equipos e instrumentos de medicion_2.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-8-01 Control de satisfaci¢n del cliente.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-8-01 Control de satisfaci¢n del cliente_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-8-01 Control de satisfaci¢n del cliente_2.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-8-02 An lisis de datos.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-8-02 An lisis de datos_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-8-02 An lisis de datos_2.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-8-02 An lisis de datos_3.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-8-02 An lisis de datos_4.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-8-03 Medici¢n y Monitoreo Linea de Producci¢n.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-8-03 Medici¢n y Monitoreo Linea de Producci¢n_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-8-03 Medici¢n y Monitoreo Linea de Producci¢n_2.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-9-01 Plan de Mantenimiento (CT).doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PE-9-01 Plan de Mantenimiento (CT)_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\Pendientes auditoria  5 Diciembre 2003.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PERFIL y funciones arriendos.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\Peticiones.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PGG01.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PGG01_1.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PGG02.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PGG02_1.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PGG02_2.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PGG02_3.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PGG02_4.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PGG02_5.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PGG02_6.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PGG03.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PGG03_1.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PGG03_2.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PGG03_3.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PGG03_4.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PGG03_5.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PGG03_6.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PGG03_7.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PGG03_8.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PGG04.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PGG04_1.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PGG04_2.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PGG04_3.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PGG04_4.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PGG04_5.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PGG04_6.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PGG04_7.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PGG05.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PGG05_1.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PGG05_2.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PGG05_3.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PGG07.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PGG07_1.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PGG07_2.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PGG07_3.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PGG08.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PGG08_1.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PGG08_2.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PGG08_3.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PGG08_4.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PGG08_5.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PGG08_6.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\pgg09- Rev.10.12.03.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\Pgg09.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\Pgg09_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\Pgg09_2.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\pin-diagrama Sistema de Gesti¢n de Calidad.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PIN.CORREO.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PIN.CORREO_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\POP01.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\POP01_1.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\POP01_2.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\POP01_3.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\POP01_4.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\POP02.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\POP02_1.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\POP02_2.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\POP02_3.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\POP02_4.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\POP03.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\POP03_1.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\POP03_2.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\POP04.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\POP04_1.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\POP04_2.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\POP04_3.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\POP05.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\POP05_1.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\POP05_2.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\POP05_3.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\POP06.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\POP06_1.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PORTADA- MANUAL DE CALIDAD ISO 9001.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PORTADA-CARPETA SGC.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PORTADA-Instructivos SGC.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PORTADA-MANUAL.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PORTADA-Medici¢n Objetivos de Calidad.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PORTADA-Medici¢n Objetivos de Calidad_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\PORTADA-Procedimientos SGC.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\Programa de Auditorias Internas.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\Programaci¢n de Visitas a Provedores 2003.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\R1-IO-PAA03-tarjeta control bodega.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\R1-IO-PAA03-tarjeta control bodega_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\R1-PAA01-IMPROMAS.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\R1-PAA01-Reg.Visitas.Proveedores.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\R1-PCC02.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\R1-pgg03.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\R1-pgg03_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\R1-pgg03_2.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\R1-pgg03_3.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\R1-pgg03_4.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\R1-pgg03_5.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\R1-pgg03_6.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\R2-IO-PAA03-TARJ.ALMACENAMIENTO.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\R2-PCC03-REGISTRO RESPALDOSINFOR..doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\R2-PGG03.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\R2-PGG03_1.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\R2-PGG03_2.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\R2-PGG03_3.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\R2-PGG03_4.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\R2-PGG03_5.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\R2-PGG03_6.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\R4-PCC01.DOC
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\Recordatorio-REVISIàN DE GERENCIA.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\_2.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\_3.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\_4.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\_5.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\~$-03_PE-8-01 Registro de Asistencia a Entrenamiento, Capacitaci¢n o Inducciones Internas (DJP).doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\~$-03_PE-8-01 Registro de Asistencia a Entrenamiento, Capacitaci¢n o Inducciones Internas (DJP)_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\~$-07 - PE-7-04 Revisi¢n del dise¤o.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\~$-07 - PE-7-04 Revisi¢n del dise¤o_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\~$-07 - PE-7-04 Revisi¢n del dise¤o_2.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\~$-08-PE-7-04 Lista Maestra de Planos y Su Distribucion.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\~$-4-01 Lista Maestra de Documentos y su Distribuci¢n.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\~$-4-01 Lista Maestra de Documentos y su Distribuci¢n_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\~$-4-02 CONTROL DE REGISTROS.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\~$-4-02 CONTROL DE REGISTROS_1.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\~$-4-02 CONTROL DE REGISTROS_2.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ISO INPROMAS\iso IN\~$r tula manual de procedimientos IN IM.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\iso9001\Check_List_ISO_9001_2000.doc
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\iso9001\guiaiso9001.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\iso9001\ISO 9001-2008.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ohsas\08_gestion_seguridad_y_salud_ocupacional.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ohsas\10960028 Sistema de Gesti¢n de la Seguridad y Salud en el trabajo.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ohsas\OHSAS 18001-2007(ES).pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\sistemas_gestion\ohsas\SSOOHSAS.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\suseso\Bolet¡n SUSESO 2025 - N£mero 3.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\suseso\Dictamen 1097-2021.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\suseso\Dictamen 1144-2022.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\suseso\Dictamen 130-2021.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\suseso\Dictamen 175259-2024.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\suseso\Dictamen 30-2022.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\suseso\Dictamen 314-2022.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\suseso\Dictamen 325-2023.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\suseso\Dictamen 3308-2022.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\suseso\Dictamen 4381-2021.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\suseso\Dictamen 4501-2021.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\suseso\Dictamen 4581-2022.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\suseso\Dictamen 615-2022.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\suseso\Dictamen 790-2022.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\suseso\Dictamen 879-2021.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\suseso\Dictamen O-01-ISESAT-01842-2024.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\suseso\Dictamen O-01-S-00907-2023.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\suseso\Dictamen O-01-S-01217-2024.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\suseso\Dictamen O-01-S-02081-2025.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\suseso\Dictamen R-01-ISESAT-133982-2023.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\biblioteca_inteligente\suseso\M s prevenci¢n, mejor seguridad Comit‚s Paritarios de Higiene y Seguridad ante la SUSESO.pdf
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\casos_prueba\caso_001_hervidor.md
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\casos_prueba\caso_002_dermatitis.md
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\knowledge_base\inventario_documental.xlsx
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\knowledge_base\reglas
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\data\knowledge_base\reglas\reglas_maestras.xlsx
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\docs\00_indice.md
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\docs\01_vision_proyecto.md
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\docs\02_objetivos.md
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\docs\03_arquitectura.md
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\docs\04_fuentes_datos.md
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\docs\05_diccionario_datos.md
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\docs\06_motor_reglas.md
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\docs\07_modelo_ia.md
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\docs\08_roadmap.md
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\docs\09_bitacora.md
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\docs\09_motor_razonamiento_experto.md
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\docs\10_base_conocimiento.md
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\docs\10_motor_aprendizaje.md
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\docs\11_actualizacion_normativa.md
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\docs\11_motor_normativo.md
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\docs\12_aprendizaje_operacional.md
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\docs\12_arquitectura_conocimiento.md
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\docs\13_modelo_conceptual.md
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\docs\14_diagrama_maestro.md
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\docs\15_motor_decision_inteligente.md
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\docs\17_base_reglas.md
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\docs\18_modelo_datos.md
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\docs\24_extractor_conocimiento.md
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\docs\25_principios_sistema_experto.md
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\docs\26_motor_contexto.md
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\docs\28_ontologia_previnspect_ai.md
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\docs\adr
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\docs\anexos
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\docs\architecture
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\docs\arquitectura
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\docs\conocimiento
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\docs\governance
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\docs\standards
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\docs\vision
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\docs\adr\ADR-001_IA_Consume_Conocimiento_No_Lo_Reemplaza.md
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\docs\anexos\ADR
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\docs\anexos\glosario.md
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\docs\anexos\normativa.md
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\docs\anexos\referencias.md
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\docs\anexos\ADR\ADR-001_Peligros_Emergentes_por_Interaccion.md
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\docs\anexos\ADR\ADR-002_Identidad_del_Peligro.md
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\docs\anexos\ADR\ADR-003_Knowledge_Graph_como_Nucleo.md
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\docs\anexos\ADR\ADR-004_Seleccion_Automatica_de_Metodologias.md
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\docs\anexos\ADR\ADR-005_Indice_Confianza_Ontologica.md
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\docs\architecture\ARC-001_Arquitectura_Sistema_Gestion_Documental.md
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\docs\arquitectura\ARC-000_Plano_Maestro_Arquitectura.md
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\docs\arquitectura\ARC-001_Arquitectura_Documental.md
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\docs\arquitectura\ARC-002_Arquitectura_Sistema_Conocimiento.md
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\docs\arquitectura\ARC-003_Arquitectura_Motor_Inferencia.md
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\docs\arquitectura\ARC-004_Arquitectura_Tecnologica.md
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\docs\arquitectura\diagramas
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\docs\arquitectura\imagenes
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\docs\governance\SGD-001_Sistema_Gestion_Documental.md
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\docs\standards\STD-001_Estandar_Metadatos_Documentales.md
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\docs\standards\STD-002_Especificacion_Estandares_Documentales.md
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\docs\vision\VIS-001_Vision_y_Filosofia_PrevInspectAI.md
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\ontology\classes
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\ontology\examples
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\ontology\README.md
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\ontology\relations
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\ontology\rules
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\ontology\schemas
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\ontology\classes\01_trabajador.md
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\ontology\classes\02_empresa.md
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\ontology\classes\03_proceso.md
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\ontology\classes\04_tarea.md
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\ontology\classes\05_peligro.md
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\ontology\classes\06_riesgo.md
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\ontology\classes\07_medida_control.md
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\ontology\classes\08_evento.md
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\ontology\classes\09_evidencia.md
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\ontology\classes\10_normativa.md
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\ontology\schemas\plantilla_clase_ontologica.md
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\outputs\graficos
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\outputs\reportes
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\outputs\tablas
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\src\extractores
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\src\inteligencia
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\src\recomendador.py
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\src\reglas.py
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\src\utils.py
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\src\extractores\extractor_conocimiento.py
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\src\extractores\parser_checklists.py
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\src\extractores\parser_diat.py
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\src\extractores\parser_excel.py
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\src\extractores\parser_normativa.py
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\src\extractores\parser_pdf.py
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\src\extractores\parser_word.py
+C:\Users\amena\DESAFIOLATAM\PrevInspect_AI\src\inteligencia\motor_contexto.py

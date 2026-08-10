@@ -1,0 +1,812 @@
+Listado de rutas de carpetas
+El número de serie del volumen es 00000090 785C:3D3D
+C:.
+|   .gitignore
+|   estructura_actual.txt
+|   README.md
+|   requirements.txt
+|   
++---app
+|       streamlit_app.py
+|       
++---data
+|   +---01_legislacion
+|   |   +---codigo_trabajo
+|   |   +---constitucion
+|   |   +---decretos_supremos
+|   |   +---leyes
+|   |   +---normas_chilenas
+|   |   +---reglamentos
+|   |   \---resoluciones
+|   +---02_interpretaciones_oficiales
+|   |   +---contraloria
+|   |   +---direccion_trabajo
+|   |   +---minsal
+|   |   +---otras_autoridades
+|   |   +---seremi
+|   |   \---suseso
+|   +---03_sistemas_de_gestion
+|   |   +---iso_14001
+|   |   +---iso_31000
+|   |   +---iso_45001
+|   |   +---iso_9001
+|   |   \---ohsas_18001
+|   +---04_protocolos
+|   +---05_mutualidades
+|   +---06_formularios
+|   |   +---diat
+|   |   +---diep
+|   |   +---fuf
+|   |   \---otros
+|   +---07_listas_chequeo
+|   +---08_procedimientos
+|   +---09_reglamentos_internos
+|   +---10_casos_reales
+|   +---11_auditorias
+|   +---12_buenas_practicas
+|   +---13_lecciones_aprendidas
+|   +---14_conocimiento_experto
+|   |   +---casos
+|   |   +---experiencia
+|   |   +---investigaciones
+|   |   \---trabajos
+|   +---aprendizaje_operacional
+|   +---biblioteca_inteligente
+|   |   +---diat
+|   |   |       articles-19908_formularios_diat.pdf
+|   |   |       
+|   |   +---diep
+|   |   |       articles-19908_formularios_diep.pdf
+|   |   |       
+|   |   +---listas_chequeo
+|   |   |       articles-108710_recurso_1.pdf
+|   |   |       articles-59852_recurso_1.docx
+|   |   |       articles-61344_recurso_1.pdf
+|   |   |       autoevaluacion-inicial-de-riesgos-criticos-v4.pdf
+|   |   |       Check List Para Residuos PELIGROSOS.xlsx
+|   |   |       formato-programa-de-trabajo-preventivo (1).xlsx
+|   |   |       formulario-único-de-fiscalización.pdf
+|   |   |       Guia-para-la-identificacion-y-evaluacion-de-riesgos-en-los-lugares-de-trabajo-v3-2024.pdf
+|   |   |       
+|   |   +---mutualidades
+|   |   |   +---achs
+|   |   |   |       achs-accidentes-graves-y-fatales.pdf
+|   |   |   |       achs_guia_seguridad_en_maquinas_final.pdf
+|   |   |   |       elementos-proteccion-personal.pdf
+|   |   |   |       exposicion-radiacion-uv.pdf
+|   |   |   |       manual-defensas-maquinas.pdf
+|   |   |   |       manual-prevencion-riesgos-electricos.pdf
+|   |   |   |       operaciones-sustancias-peligrosas-1.pdf
+|   |   |   |       procedimiento-para-establecer-vias-de-evacuación.pdf
+|   |   |   |       protocolos-ministerio-de-salud-trastornos-musculoesqueléticos-relacionados-al-trabajo-tmert.pdf
+|   |   |   |       que-hacer-frente-a-riesgo-de-incendio.pdf
+|   |   |   |       qué-hacer-frente-a-un-evento-sísmico.pdf
+|   |   |   |       ubicacion-y-senhalética-para-extintores.pdf
+|   |   |   |       
+|   |   |   +---isl
+|   |   |   +---ist
+|   |   |   \---mutual_cchc
+|   |   |           fap-preguntas-frecuentes-protocolo-de-vigilancia-v2.pdf
+|   |   |           
+|   |   +---normativa
+|   |   |       Decreto-1052-EXENTO_14-OCT-2013.pdf
+|   |   |       Decreto-10_19-OCT-2013.pdf
+|   |   |       Decreto-10_25-SEP-2010.pdf
+|   |   |       Decreto-15_29-ABR-2021.pdf
+|   |   |       Decreto-18_03-JUL-2020.pdf
+|   |   |       Decreto-1_22-MAY-2021.pdf
+|   |   |       Decreto-21_11-MAY-2019.pdf
+|   |   |       Decreto-38_26-DIC-2012.pdf
+|   |   |       Decreto-39_11-OCT-2013.pdf
+|   |   |       Decreto-44_27-JUL-2024.pdf
+|   |   |       Decreto-4_08-MAY-2020.pdf
+|   |   |       Decreto-57_09-FEB-2021.pdf
+|   |   |       Decreto-804-EXENTO_08-OCT-2012.pdf
+|   |   |       DFL-101_23-OCT-1989.pdf
+|   |   |       DFL-19_13-JUL-1984.pdf
+|   |   |       DFL-2_08-ABR-1986.pdf
+|   |   |       DFL-50_17-MAY-1979.pdf
+|   |   |       DFL-54_05-AGO-1987.pdf
+|   |   |       DFL-90_01-DIC-1987.pdf
+|   |   |       DTO-101_07-JUN-1968.pdf
+|   |   |       DTO-109_07-JUN-1968.pdf
+|   |   |       DTO-138_17-NOV-2005.pdf
+|   |   |       DTO-144_26-JUL-1985.pdf
+|   |   |       DTO-148_16-JUN-2004.pdf
+|   |   |       DTO-190_31-OCT-2005.pdf
+|   |   |       DTO-285_26-FEB-1969.pdf
+|   |   |       DTO-289_13-NOV-1989.pdf
+|   |   |       DTO-313_12-MAY-1973.pdf
+|   |   |       DTO-54_11-MAR-1969.pdf
+|   |   |       DTO-594_29-ABR-2000.pdf
+|   |   |       DTO-63_12-SEP-2005.pdf
+|   |   |       DTO-655_07-MAR-1941.pdf
+|   |   |       DTO-67_07-MAR-2000.pdf
+|   |   |       DTO-67_30-SEP-2008.pdf
+|   |   |       DTO-68_03-OCT-1983.pdf
+|   |   |       DTO-735_19-DIC-1969.pdf
+|   |   |       DTO-76_18-ENE-2007.pdf
+|   |   |       LEY-16744_01-FEB-1968.pdf
+|   |   |       LEY-17322_19-AGO-1970.pdf
+|   |   |       LEY-19260_04-DIC-1993.pdf
+|   |   |       LEY-19345_07-NOV-1994.pdf
+|   |   |       LEY-19419_09-OCT-1995.pdf
+|   |   |       LEY-20001_05-FEB-2005.pdf
+|   |   |       LEY-20123_16-OCT-2006.pdf
+|   |   |       LEY-20255_17-MAR-2008.pdf
+|   |   |       Ley-20584_24-ABR-2012.pdf
+|   |   |       Ley-21220_26-MAR-2020.pdf
+|   |   |       Ley-21260_04-SEP-2020.pdf
+|   |   |       Ley-21275_21-OCT-2020.pdf
+|   |   |       Ley-21342_01-JUN-2021.pdf
+|   |   |       Ley-21409_25-ENE-2022.pdf
+|   |   |       Ley-21643_15-ENE-2024 (1).pdf
+|   |   |       Ley-21643_15-ENE-2024.pdf
+|   |   |       Resolucion-1141-EXENTA_30-MAY-2013.pdf
+|   |   |       Resolucion-140-EXENTA_08-FEB-2017.pdf
+|   |   |       Resolucion-1497-EXENTA_06-DIC-2017.pdf
+|   |   |       Resolucion-22-EXENTA_10-FEB-2018.pdf
+|   |   |       Resolucion-268-EXENTA_03-JUN-2015.pdf
+|   |   |       Resolucion-402-EXENTA_16-MAR-2018.pdf
+|   |   |       Resolucion-591-EXENTA_25-JUL-2020.pdf
+|   |   |       
+|   |   +---reglamentos_internos
+|   |   |       1. FORMATO IRL (ex ODI).docx.pdf
+|   |   |       16- OPERADOR DE MAQUINARIA.doc.pdf
+|   |   |       REGLAMENTO INTERNO HIGIENE Y SEGURIDAD RIHS 2026 DS 44 maximo 10 trabajadores.docx
+|   |   |       
+|   |   +---sistemas_gestion
+|   |   |   +---ISO INPROMAS
+|   |   |   |   |   Manual_Calidad_ rev.0 2009.doc
+|   |   |   |   |   Medición.ObjetivosCalidad-A2-MC.doc
+|   |   |   |   |   PE-7-09 Adquisición de productos1-04-11-2015.pdf
+|   |   |   |   |   
+|   |   |   |   \---iso IN
+|   |   |   |           .doc
+|   |   |   |           1 DO-5-01 Politica de Gestión Integral.doc
+|   |   |   |           1 DO-5-01 Politica de Gestión Integral_1.doc
+|   |   |   |           1 IT-01_PC-4-01 Elaboración de documentos.doc
+|   |   |   |           1 IT-01_PC-4-01 Elaboración de documentos_1.doc
+|   |   |   |           1 IT-01_PC-4-01 Elaboración de documentos_2.doc
+|   |   |   |           1.doc
+|   |   |   |           1_1.doc
+|   |   |   |           1_10.doc
+|   |   |   |           1_11.doc
+|   |   |   |           1_12.doc
+|   |   |   |           1_13.doc
+|   |   |   |           1_14.doc
+|   |   |   |           1_15.doc
+|   |   |   |           1_16.doc
+|   |   |   |           1_17.doc
+|   |   |   |           1_18.doc
+|   |   |   |           1_19.doc
+|   |   |   |           1_2.doc
+|   |   |   |           1_20.doc
+|   |   |   |           1_3.doc
+|   |   |   |           1_4.doc
+|   |   |   |           1_5.doc
+|   |   |   |           1_6.doc
+|   |   |   |           1_7.doc
+|   |   |   |           1_8.doc
+|   |   |   |           1_9.doc
+|   |   |   |           1ª Informe.doc
+|   |   |   |           1ª Informe_1.doc
+|   |   |   |           2 DO-5-01 POLÍTICA INTEGRADA.doc
+|   |   |   |           2 DO-5-01 POLÍTICA INTEGRADA_1.doc
+|   |   |   |           2 IT-02_PC-4-1 Elaboración de carta y fax.doc
+|   |   |   |           2 IT-02_PC-4-1 Elaboración de carta y fax_1.doc
+|   |   |   |           2 IT-02_PC-4-1 Elaboración de carta y fax_2.doc
+|   |   |   |           3  FO-03 - PE-7-11 Solicitud de Contrato.doc
+|   |   |   |           3  FO-03 - PE-7-11 Solicitud de Contrato_1.doc
+|   |   |   |           3 IT-01_PC-8-01 Plan de Auditoria.doc
+|   |   |   |           3 IT-01_PC-8-01 Plan de Auditoria_1.doc
+|   |   |   |           3 IT-01_PC-8-01 Plan de Auditoria_2.doc
+|   |   |   |           3 PE-7-03 Plan de Proceso Linea Principal.doc
+|   |   |   |           3 PE-7-03 Plan de Proceso Linea Principal_1.doc
+|   |   |   |           3 PE-7-03 Plan de Proceso Linea Principal_2.doc
+|   |   |   |           4  FO-04 - PE-7-11 Solicitud de Modificación de Contrato.doc
+|   |   |   |           4  FO-04 - PE-7-11 Solicitud de Modificación de Contrato_1.doc
+|   |   |   |           4 DO-501 POLITICA DE LA CALIDAD.doc
+|   |   |   |           4 DO-501 POLITICA DE LA CALIDAD_1.doc
+|   |   |   |           4 IT-02_PC-8-01 Informe de auditoría interna.doc
+|   |   |   |           4 IT-02_PC-8-01 Informe de auditoría interna_1.doc
+|   |   |   |           4 IT-02_PC-8-01 Informe de auditoría interna_2.doc
+|   |   |   |           4_11_2_modelo_contratas.doc
+|   |   |   |           A1-IGC-02 For.de Encuesta a Clientes_1.doc
+|   |   |   |           A1-IGC-02 For.de Encuesta a Clientes_2.doc
+|   |   |   |           A1-IGC-02 For.de Encuesta a Clientes_3.doc
+|   |   |   |           A1-PAA01.DOC
+|   |   |   |           A1-PAA01_1.DOC
+|   |   |   |           A1-PCC01-ListaMaestraDoc..doc
+|   |   |   |           A1-PCC01-ListaMaestraDoc.12.12.03.doc
+|   |   |   |           A1-PCC01-ListaMaestraDoc.13.09.03.doc
+|   |   |   |           A1-PCC01-ListaMaestraDoc.13.09.03_1.doc
+|   |   |   |           A1-PCC01-ListaMaestraDoc._1.doc
+|   |   |   |           A1-PCC01-ListaMaestraDoc._2.doc
+|   |   |   |           A1-PCC01-ListaMaestraDoc._3.doc
+|   |   |   |           A1-PCC01-ListaMaestraDoc._4.doc
+|   |   |   |           A1-PCC01-ListaMestrapin.doc
+|   |   |   |           A1-PCC01-ListaMestrapin_1.doc
+|   |   |   |           A1-PCC01-ListaMestrapin_2.doc
+|   |   |   |           A1-PCC01-ListaMestrapin_3.doc
+|   |   |   |           A1-PCC02.doc
+|   |   |   |           A1-PCC02_1.DOC
+|   |   |   |           A1-PCC04-Plan de la Auditoria-2004.doc
+|   |   |   |           A1-PCC04-Plan de la Auditoria.doc
+|   |   |   |           A1-PCC06-ListadoCargos-reemplazo.doc
+|   |   |   |           A1-PCC06-ListadoCargos-reemplazo_1.doc
+|   |   |   |           A1-PCO01.DOC
+|   |   |   |           A1-PCO01_1.DOC
+|   |   |   |           A1-PCO01_2.DOC
+|   |   |   |           A1-PCO02-protocolo.inspeccion.DOC
+|   |   |   |           A1-PCO02-protocolo.inspeccion_1.DOC
+|   |   |   |           A1-PCO02-protocolo.inspeccion_2.DOC
+|   |   |   |           A1-PCO02-protocolo.inspeccion_3.DOC
+|   |   |   |           A1-PCO03-ListadoInstr.medicion.DOC
+|   |   |   |           A1-PCO03-ListadoInstr.medicion_1.DOC
+|   |   |   |           A1-PCO05.DOC
+|   |   |   |           A1-PCO05_1.DOC
+|   |   |   |           A1-PCO05_2.DOC
+|   |   |   |           A1-PCO05_3.DOC
+|   |   |   |           A1-PDI01.DOC
+|   |   |   |           A1-PDI01_1.DOC
+|   |   |   |           A1-PDI01_2.DOC
+|   |   |   |           A1-PDI01_3.DOC
+|   |   |   |           A1-PGG02-Plan.Rev.Gerencia2004.doc
+|   |   |   |           A1-PGG02_actas.DOC
+|   |   |   |           A1-PGG02_actas_1.DOC
+|   |   |   |           A1-PGG02_actas_2.DOC
+|   |   |   |           A1-PGG08 22.doc
+|   |   |   |           A1-PGG08 22_1.doc
+|   |   |   |           A1-pgg08 23.doc
+|   |   |   |           A1-pgg08 23_1.doc
+|   |   |   |           A1-pgg08 24.doc
+|   |   |   |           A1-pgg08 24_1.doc
+|   |   |   |           A1-pgg08 25.doc
+|   |   |   |           A1-pgg08 25_1.doc
+|   |   |   |           A1-pgg08 26.doc
+|   |   |   |           A1-pgg08 26_1.doc
+|   |   |   |           A1-pgg08 silicitud de accion correctiva o preventiva.doc
+|   |   |   |           A1-pgg08 silicitud de accion correctiva o preventiva_1.doc
+|   |   |   |           A1-pgg08.doc
+|   |   |   |           FO-01 PC 8-02 Informe de Producto No Conforme 02 RRHH LIQUIDACIONES.docx
+|   |   |   |           FO-01 PC 8-02 Informe de Producto No Conforme.docx
+|   |   |   |           FO-01 PE 5-03 Evaluación de cumplimiento de la legislación.docx
+|   |   |   |           FO-01 PE-7-05 PRUEBA DE CARGA.docx
+|   |   |   |           FO-01-PE-7-08 Programación de Mantención.docx
+|   |   |   |           FO-01_5-02 Informe previo a Rev. Gerencia.docx
+|   |   |   |           FO-01_PC-8-01 Plan de auditoría.docx
+|   |   |   |           FO-01_PC-8-03 Solicitud AC AP.docx
+|   |   |   |           FO-01_PE-6-01 Solicitud de formación y-o Ent.docx
+|   |   |   |           FO-01_PE-7-01 Solicitud de Presupuesto.docx
+|   |   |   |           FO-01_PE-7-02 Atención Reclamo Clientes (mod.1).docx
+|   |   |   |           FO-01_PE-7-03 Programa de Producción.docx
+|   |   |   |           FO-02 PE 5-03 Matríz de identificación de aspectos ambientales.docx
+|   |   |   |           FO-02-PE-7-04 Acta de reunion de partida.docx
+|   |   |   |           FO-02_5-02 Acta de la Rev. Gerencia.docx
+|   |   |   |           FO-02_PC-4-01 Modelo de fax.docx
+|   |   |   |           FO-02_PC-8-01 Informede auditoría interna.docx
+|   |   |   |           FO-02_PE-6-01 Evaluación de formación y Entren.docx
+|   |   |   |           FO-02_PE-6-02 Solicitud de trabajo para mantención (2).docx
+|   |   |   |           FO-02_PE-7-01 Hoja de Inicio (2).docx
+|   |   |   |           FO-02_PE-7-07 Registro de capacitación, inducción o charla.docx
+|   |   |   |           FO-03-PE-7-01 REVISION Y SOLICITUD DE CONTRATO (Rev 1).docx
+|   |   |   |           FO-03-PE-7-01 REVISION Y SOLICITUD DE CONTRATO (Rev 1).dot
+|   |   |   |           FO-03-PE-7-04 Planificación Revisión y Verificación del Diseño (3).docx
+|   |   |   |           FO-03-PE-7-07 Autocontrol torque (2).docx
+|   |   |   |           FO-03_PC-8-01 Registro de Entrevistados de Auditoria.docx
+|   |   |   |           FO-03_PE-6-01 Ficha de Inspección (1).docx
+|   |   |   |           FO-03_PE-6-01 Registro de Asistencia (1).docx
+|   |   |   |           FO-03_PE-7-09 Registro de proveedores aprobados.docx
+|   |   |   |           FO-04-PE-7-01 Control de entrega de documentos.docx
+|   |   |   |           FO-04-PE-7-01 Control de entrega de documentos.dot
+|   |   |   |           FO-04-PE-7-04 Lista maestra de planos y su distribucion.docx
+|   |   |   |           FO-04-PE-7-07 Protocolo verificación sistema insertos (0).docx
+|   |   |   |           FO-04_PE-6-01 Programa de Inducción (3).docx
+|   |   |   |           FO-04_PE-7-09 Orden Compra (2).rtf
+|   |   |   |           FO-04_PE-7-09 ORDEN DE COMPRA.rtf
+|   |   |   |           FO-04_PE-7-09 ORDEN DE COMPRA_1.rtf
+|   |   |   |           FO-04_PE-7-09 ORDEN DE COMPRA_2.rtf
+|   |   |   |           FO-05-PE-7-04 Envio de Documentos.docx
+|   |   |   |           FO-05_PE-6-01 Programa anual de formación.docx
+|   |   |   |           FO-06-PE-7-04 Orden de trabajo.docx
+|   |   |   |           FO-06_PE-6-01 Solicitud de  Personal.docx
+|   |   |   |           FO-07_PE-6-01 Solicitud de Contratación o Modificación del Cargo.docx
+|   |   |   |           Formato Comite Psicosocial.docx
+|   |   |   |           form_inspección_planeada.docx
+|   |   |   |           foro 14.docx
+|   |   |   |           foro.docx
+|   |   |   |           foro2.docx
+|   |   |   |           foro8.2.docx
+|   |   |   |           Foro8.docx
+|   |   |   |           Grado 8.docx
+|   |   |   |           gth-p-17.docx
+|   |   |   |           guia auditor.docx
+|   |   |   |           Guia_Inspecciones_seguridad.docx
+|   |   |   |           idtablagoogle.docx
+|   |   |   |           Informe de P_S N_C N 18_15.docx
+|   |   |   |           Informe de P_S N_C N 19_15.docx
+|   |   |   |           Informe de P_S N_C N 27_15.docx
+|   |   |   |           IO-ICO01-Armado Estructural.doc
+|   |   |   |           IO-ICO01-Armado Estructural_1.doc
+|   |   |   |           IO-ICO01-Armado Estructural_2.doc
+|   |   |   |           IO-ICO02-Armado Mecanico.doc
+|   |   |   |           IO-ICO02-Armado Mecanico_1.doc
+|   |   |   |           IO-ICO02-Armado Mecanico_2.doc
+|   |   |   |           IO-ICO03-Inspeccion Soldadura.doc
+|   |   |   |           IO-ICO03-Inspeccion Soldadura_1.doc
+|   |   |   |           IO-ICO03-Inspeccion Soldadura_2.doc
+|   |   |   |           IO-PAA03-Manip.y Almacenamiento.doc
+|   |   |   |           IO-PAA03-Manip.y Almacenamiento_1.doc
+|   |   |   |           IO-PAA04 DespachoyRetiroProveedor.doc
+|   |   |   |           IO-PAA04-CL Despacho Cliente.doc
+|   |   |   |           IO-PAA04-CL Despacho Cliente_1.doc
+|   |   |   |           IO-PCO03-Calibraciones y Verificaciones.doc
+|   |   |   |           IO-POP06.doc
+|   |   |   |           ISO 9001-2008.doc
+|   |   |   |           IT-01_PE-7-05 Recepción de Materias Primas e Insumos (Enoac).doc
+|   |   |   |           IT-01_PE-7-05 Recepción de Materias Primas e Insumos (Enoac)_1.doc
+|   |   |   |           IT-02-PE-7-05 Entrega de Insumos (Enoac).doc
+|   |   |   |           IT-02-PE-7-05 Entrega de Insumos (Enoac)_1.doc
+|   |   |   |           IT-03-PE-7-05 Entrega de Art. de Escritorio (Enoac).doc
+|   |   |   |           IT-03-PE-7-05 Entrega de Art. de Escritorio (Enoac)_1.doc
+|   |   |   |           la-maquina-que-cambio-al-mundo1.doc
+|   |   |   |           Ley 16744 Artículo 4.doc
+|   |   |   |           Ley 16744 Artículo 66.doc
+|   |   |   |           Ley 16744 Artículo 66bis.doc
+|   |   |   |           Ley 16744 Artículo 66bis_1.doc
+|   |   |   |           Ley 16744 Artículo 67.doc
+|   |   |   |           Ley 16744 Artículo 70.doc
+|   |   |   |           Ley 19419 Artículo 11.doc
+|   |   |   |           LIB.019 - Manual implantacion OHSAS 18001.doc
+|   |   |   |           list maest reg.doc
+|   |   |   |           list maest reg_1.doc
+|   |   |   |           list maest reg_2.doc
+|   |   |   |           LISTA CHEQUEO BPM_Abril_2008.doc
+|   |   |   |           Lista de documentos.doc
+|   |   |   |           lista iMpromas.doc
+|   |   |   |           lista iMpromas_1.doc
+|   |   |   |           Lista registro.doc
+|   |   |   |           LISTADO DE CARPETAS Y CONTROLES.doc
+|   |   |   |           LISTADO DE CARPETAS Y CONTROLES_1.doc
+|   |   |   |           LISTADO DE CARPETAS Y CONTROLES_2.doc
+|   |   |   |           LISTADO DE OBRAS Y CONTROLES.doc
+|   |   |   |           LISTADO DE OBRAS Y CONTROLES_1.doc
+|   |   |   |           LISTADO DE OBRAS Y CONTROLES_2.doc
+|   |   |   |           Listado de peligros según OIT.doc
+|   |   |   |           Listado personal.doc
+|   |   |   |           listado-reemplazo.doc
+|   |   |   |           listado-reemplazo_1.doc
+|   |   |   |           listado-reemplazo_2.doc
+|   |   |   |           listado-reemplazo_3.doc
+|   |   |   |           Los perfiles tubulares de Cintac.doc
+|   |   |   |           Manual de la calidad.doc
+|   |   |   |           Manual de la calidad_1.doc
+|   |   |   |           Medición.ObjetivosCalidad-A2-MC.doc
+|   |   |   |           Medición.ObjetivosCalidad-A2-MC_1.doc
+|   |   |   |           Medición.ObjetivosCalidad-A2-MC_2.doc
+|   |   |   |           Medidas Urgentes05.02.04.doc
+|   |   |   |           Medidas Urgentes05.02.04_1.doc
+|   |   |   |           memo.doc
+|   |   |   |           memo_1.doc
+|   |   |   |           mena_andres_evaluacion_semana1.doc
+|   |   |   |           Metodología para la implementación de un sistema documental .doc
+|   |   |   |           MIO-BitacoraISO-9000.doc
+|   |   |   |           MIO-BitacoraISO-9000_1.doc
+|   |   |   |           PAA01.DOC
+|   |   |   |           PAA01_1.DOC
+|   |   |   |           PAA01_2.DOC
+|   |   |   |           PAA01_3.DOC
+|   |   |   |           PAA02.DOC
+|   |   |   |           PAA02_1.DOC
+|   |   |   |           PAA02_2.DOC
+|   |   |   |           PAA02_3.DOC
+|   |   |   |           PAA02_4.DOC
+|   |   |   |           PAA03.DOC
+|   |   |   |           PAA03_1.DOC
+|   |   |   |           PAA04.DOC
+|   |   |   |           PAA04_1.DOC
+|   |   |   |           PC-4-01 CONTROL DE DOCUMENTOS.doc
+|   |   |   |           PC-4-01 CONTROL DE DOCUMENTOS_1.doc
+|   |   |   |           PC-4-02 CONTROL DE REGISTROS.doc
+|   |   |   |           PC-4-02 CONTROL DE REGISTROS_1.doc
+|   |   |   |           PC-8-01 AUDITORIAS INTERNAS.doc
+|   |   |   |           PC-8-01 AUDITORIAS INTERNAS_1.doc
+|   |   |   |           PC-8-02 CONTROL DEL PRODUCTO NO CONFORME.doc
+|   |   |   |           PC-8-02 CONTROL DEL PRODUCTO NO CONFORME_1.doc
+|   |   |   |           PC-8-03 ACCIONES CORRECTIVAS Y PREVENTIVAS.doc
+|   |   |   |           PC-8-03 ACCIONES CORRECTIVAS Y PREVENTIVAS_1.doc
+|   |   |   |           Pcc01.doc
+|   |   |   |           PCC01_1.DOC
+|   |   |   |           Pcc01_2.doc
+|   |   |   |           PCC01_3.DOC
+|   |   |   |           PCC02.DOC
+|   |   |   |           PCC02_1.DOC
+|   |   |   |           Pcc03.doc
+|   |   |   |           PCC03_1.DOC
+|   |   |   |           PCC03_2.DOC
+|   |   |   |           PCC04.DOC
+|   |   |   |           PCC04_1.DOC
+|   |   |   |           PCC05.DOC
+|   |   |   |           PCC05_1.DOC
+|   |   |   |           PCC06-A.Datos.DOC
+|   |   |   |           PCC06-A.Datos_1.DOC
+|   |   |   |           PCC06.DOC
+|   |   |   |           PCC06.V.1.-Analisis Datos-rechazadoHS.DOC
+|   |   |   |           PCC06.V.1.-Analisis Datos-rechazadoHS_1.DOC
+|   |   |   |           PCC06_1.DOC
+|   |   |   |           Pcc07.DOC
+|   |   |   |           Pcc07_1.DOC
+|   |   |   |           PCO01.DOC
+|   |   |   |           PCO01_1.DOC
+|   |   |   |           PCO01_2.DOC
+|   |   |   |           PCO01_3.DOC
+|   |   |   |           PCO02.DOC
+|   |   |   |           PCO02_1.DOC
+|   |   |   |           PCO02_2.DOC
+|   |   |   |           PCO02_3.DOC
+|   |   |   |           PCO03.DOC
+|   |   |   |           PCO03_1.DOC
+|   |   |   |           PCO04.DOC
+|   |   |   |           PCO04_1.DOC
+|   |   |   |           PCO04_2.DOC
+|   |   |   |           PCO04_3.DOC
+|   |   |   |           Pco05.doc
+|   |   |   |           Pco05_1.doc
+|   |   |   |           Pco05_2.doc
+|   |   |   |           PDI01.DOC
+|   |   |   |           PDI01_1.DOC
+|   |   |   |           PDI01_2.DOC
+|   |   |   |           PDI01_3.DOC
+|   |   |   |           PDI01_4.DOC
+|   |   |   |           PDI01_5.DOC
+|   |   |   |           PDI01_6.DOC
+|   |   |   |           PDI01_7.DOC
+|   |   |   |           PE-10-04 Adquisición de productos.doc
+|   |   |   |           PE-10-04 Adquisición de productos_1.doc
+|   |   |   |           PE-11-03 Control de satisfación del cliente.doc
+|   |   |   |           PE-11-03 Control de satisfación del cliente_1.doc
+|   |   |   |           PE-5-01 Comunicación Interna.doc
+|   |   |   |           PE-5-01 Comunicación Interna_1.doc
+|   |   |   |           PE-5-01 Comunicación Interna_2.doc
+|   |   |   |           PE-5-02 Revisión por la Gerencia.doc
+|   |   |   |           PE-5-02 Revisión por la Gerencia_1.doc
+|   |   |   |           PE-5-02 Revisión por la Gerencia_2.doc
+|   |   |   |           PE-6-01 Competencia toma de conciencia y capacitación1.doc
+|   |   |   |           PE-6-01 Competencia, toma de conciencia y capacitación.doc
+|   |   |   |           PE-6-01 Competencia, toma de conciencia y capacitación_1.doc
+|   |   |   |           PE-6-01 Competencia, toma de conciencia y capacitación_2.doc
+|   |   |   |           PE-6-02 Plan de Mantenimiento.doc
+|   |   |   |           PE-6-02 Plan de Mantenimiento_1.doc
+|   |   |   |           PE-6-02 Plan de Mantenimiento_2.doc
+|   |   |   |           PE-7-01 Proceso de Comercialización.doc
+|   |   |   |           PE-7-01 Proceso de Comercialización_1.doc
+|   |   |   |           PE-7-01 Proceso de Comercialización_2.doc
+|   |   |   |           PE-7-01 Proceso de Comercialización_3.doc
+|   |   |   |           PE-7-01 Proceso de Comercialización_4.doc
+|   |   |   |           PE-7-02 Atención Reclamo Cliente..doc
+|   |   |   |           PE-7-02 Atención Reclamo Cliente._1.doc
+|   |   |   |           PE-7-02 Atención Reclamo Cliente._2.doc
+|   |   |   |           PE-7-03 Atención Reclamo Cliente.doc
+|   |   |   |           PE-7-03 Atención Reclamo Cliente_1.doc
+|   |   |   |           PE-7-03 Planificación para la realización del producto_servicio.doc
+|   |   |   |           PE-7-03 Planificación para la realización del producto_servicio_1.doc
+|   |   |   |           PE-7-03 Planificación para la realización del producto_servicio_2.doc
+|   |   |   |           PE-7-04 PROCESO DE DIs y des.doc
+|   |   |   |           PE-7-04 PROCESO DE DISEÑO Y DESARROLLO (2).doc
+|   |   |   |           PE-7-04 PROCESO DE DISEÑO Y DESARROLLO (2)_1.doc
+|   |   |   |           PE-7-04 PROCESO DE DISEÑO Y DESARROLLO (2)_2.doc
+|   |   |   |           PE-7-05 Plan de Proceso Linea Corte, ensamble y soldadura. OK.doc
+|   |   |   |           PE-7-05 Plan de Proceso Linea Corte, ensamble y soldadura. OK_1.doc
+|   |   |   |           PE-7-05 Plan de Proceso Linea Corte, ensamble y soldadura. OK_2.doc
+|   |   |   |           PE-7-05 Plan de Proceso Materias Primas e Insumos (Enoac).doc
+|   |   |   |           PE-7-05 Plan de Proceso Materias Primas e Insumos (Enoac)_1.doc
+|   |   |   |           PE-7-05 Plan de Proceso Materias Primas e Insumos (Enoac)_2.doc
+|   |   |   |           PE-7-06 Plan de Proceso Linea Armado mecanico ok.doc
+|   |   |   |           PE-7-06 Plan de Proceso Linea Armado mecanico ok_1.doc
+|   |   |   |           PE-7-07 Plan de Proceso de Montaje2.doc
+|   |   |   |           PE-7-07 Plan de Proceso de Montaje_2.doc
+|   |   |   |           PE-7-08 Plan de Proceso Servicio de Mantención.doc
+|   |   |   |           PE-7-08 Plan de Proceso Servicio de Mantención_1.doc
+|   |   |   |           PE-7-08 Plan de Proceso Servicio de Mantención_2.doc
+|   |   |   |           PE-7-09 Adquisición de productos.doc
+|   |   |   |           PE-7-09 Adquisición de productos_1.doc
+|   |   |   |           PE-7-09 Adquisición de productos_2.doc
+|   |   |   |           PE-7-10 Control de equipos e instrumentos de medicion.doc
+|   |   |   |           PE-7-10 Control de equipos e instrumentos de medicion_1.doc
+|   |   |   |           PE-7-10 Control de equipos e instrumentos de medicion_2.doc
+|   |   |   |           PE-8-01 Control de satisfación del cliente.doc
+|   |   |   |           PE-8-01 Control de satisfación del cliente_1.doc
+|   |   |   |           PE-8-01 Control de satisfación del cliente_2.doc
+|   |   |   |           PE-8-02 Análisis de datos.doc
+|   |   |   |           PE-8-02 Análisis de datos_1.doc
+|   |   |   |           PE-8-02 Análisis de datos_2.doc
+|   |   |   |           PE-8-02 Análisis de datos_3.doc
+|   |   |   |           PE-8-02 Análisis de datos_4.doc
+|   |   |   |           PE-8-03 Medición y Monitoreo Linea de Producción.doc
+|   |   |   |           PE-8-03 Medición y Monitoreo Linea de Producción_1.doc
+|   |   |   |           PE-8-03 Medición y Monitoreo Linea de Producción_2.doc
+|   |   |   |           PE-9-01 Plan de Mantenimiento (CT).doc
+|   |   |   |           PE-9-01 Plan de Mantenimiento (CT)_1.doc
+|   |   |   |           Pendientes auditoria  5 Diciembre 2003.doc
+|   |   |   |           PERFIL y funciones arriendos.doc
+|   |   |   |           Peticiones.doc
+|   |   |   |           PGG01.DOC
+|   |   |   |           PGG01_1.DOC
+|   |   |   |           PGG02.DOC
+|   |   |   |           PGG02_1.DOC
+|   |   |   |           PGG02_2.DOC
+|   |   |   |           PGG02_3.DOC
+|   |   |   |           PGG02_4.DOC
+|   |   |   |           PGG02_5.DOC
+|   |   |   |           PGG02_6.DOC
+|   |   |   |           PGG03.DOC
+|   |   |   |           PGG03_1.DOC
+|   |   |   |           PGG03_2.DOC
+|   |   |   |           PGG03_3.DOC
+|   |   |   |           PGG03_4.DOC
+|   |   |   |           PGG03_5.DOC
+|   |   |   |           PGG03_6.DOC
+|   |   |   |           PGG03_7.DOC
+|   |   |   |           PGG03_8.DOC
+|   |   |   |           PGG04.DOC
+|   |   |   |           PGG04_1.DOC
+|   |   |   |           PGG04_2.DOC
+|   |   |   |           PGG04_3.DOC
+|   |   |   |           PGG04_4.DOC
+|   |   |   |           PGG04_5.DOC
+|   |   |   |           PGG04_6.DOC
+|   |   |   |           PGG04_7.DOC
+|   |   |   |           PGG05.DOC
+|   |   |   |           PGG05_1.DOC
+|   |   |   |           PGG05_2.DOC
+|   |   |   |           PGG05_3.DOC
+|   |   |   |           PGG07.DOC
+|   |   |   |           PGG07_1.DOC
+|   |   |   |           PGG07_2.DOC
+|   |   |   |           PGG07_3.DOC
+|   |   |   |           PGG08.DOC
+|   |   |   |           PGG08_1.DOC
+|   |   |   |           PGG08_2.DOC
+|   |   |   |           PGG08_3.DOC
+|   |   |   |           PGG08_4.DOC
+|   |   |   |           PGG08_5.DOC
+|   |   |   |           PGG08_6.DOC
+|   |   |   |           pgg09- Rev.10.12.03.doc
+|   |   |   |           Pgg09.doc
+|   |   |   |           Pgg09_1.doc
+|   |   |   |           Pgg09_2.doc
+|   |   |   |           pin-diagrama Sistema de Gestión de Calidad.doc
+|   |   |   |           PIN.CORREO.doc
+|   |   |   |           PIN.CORREO_1.doc
+|   |   |   |           POP01.DOC
+|   |   |   |           POP01_1.DOC
+|   |   |   |           POP01_2.DOC
+|   |   |   |           POP01_3.DOC
+|   |   |   |           POP01_4.DOC
+|   |   |   |           POP02.DOC
+|   |   |   |           POP02_1.DOC
+|   |   |   |           POP02_2.DOC
+|   |   |   |           POP02_3.DOC
+|   |   |   |           POP02_4.DOC
+|   |   |   |           POP03.DOC
+|   |   |   |           POP03_1.DOC
+|   |   |   |           POP03_2.DOC
+|   |   |   |           POP04.DOC
+|   |   |   |           POP04_1.DOC
+|   |   |   |           POP04_2.DOC
+|   |   |   |           POP04_3.DOC
+|   |   |   |           POP05.DOC
+|   |   |   |           POP05_1.DOC
+|   |   |   |           POP05_2.DOC
+|   |   |   |           POP05_3.DOC
+|   |   |   |           POP06.DOC
+|   |   |   |           POP06_1.DOC
+|   |   |   |           PORTADA- MANUAL DE CALIDAD ISO 9001.doc
+|   |   |   |           PORTADA-CARPETA SGC.doc
+|   |   |   |           PORTADA-Instructivos SGC.doc
+|   |   |   |           PORTADA-MANUAL.doc
+|   |   |   |           PORTADA-Medición Objetivos de Calidad.doc
+|   |   |   |           PORTADA-Medición Objetivos de Calidad_1.doc
+|   |   |   |           PORTADA-Procedimientos SGC.doc
+|   |   |   |           Programa de Auditorias Internas.doc
+|   |   |   |           Programación de Visitas a Provedores 2003.doc
+|   |   |   |           R1-IO-PAA03-tarjeta control bodega.doc
+|   |   |   |           R1-IO-PAA03-tarjeta control bodega_1.doc
+|   |   |   |           R1-PAA01-IMPROMAS.doc
+|   |   |   |           R1-PAA01-Reg.Visitas.Proveedores.doc
+|   |   |   |           R1-PCC02.doc
+|   |   |   |           R1-pgg03.doc
+|   |   |   |           R1-pgg03_1.doc
+|   |   |   |           R1-pgg03_2.doc
+|   |   |   |           R1-pgg03_3.doc
+|   |   |   |           R1-pgg03_4.doc
+|   |   |   |           R1-pgg03_5.doc
+|   |   |   |           R1-pgg03_6.doc
+|   |   |   |           R2-IO-PAA03-TARJ.ALMACENAMIENTO.doc
+|   |   |   |           R2-PCC03-REGISTRO RESPALDOSINFOR..doc
+|   |   |   |           R2-PGG03.DOC
+|   |   |   |           R2-PGG03_1.DOC
+|   |   |   |           R2-PGG03_2.DOC
+|   |   |   |           R2-PGG03_3.DOC
+|   |   |   |           R2-PGG03_4.DOC
+|   |   |   |           R2-PGG03_5.DOC
+|   |   |   |           R2-PGG03_6.DOC
+|   |   |   |           R4-PCC01.DOC
+|   |   |   |           Recordatorio-REVISIÓN DE GERENCIA.doc
+|   |   |   |           _1.doc
+|   |   |   |           _2.doc
+|   |   |   |           _3.doc
+|   |   |   |           _4.doc
+|   |   |   |           _5.doc
+|   |   |   |           ~$-03_PE-8-01 Registro de Asistencia a Entrenamiento, Capacitación o Inducciones Internas (DJP).doc
+|   |   |   |           ~$-03_PE-8-01 Registro de Asistencia a Entrenamiento, Capacitación o Inducciones Internas (DJP)_1.doc
+|   |   |   |           ~$-07 - PE-7-04 Revisión del diseño.doc
+|   |   |   |           ~$-07 - PE-7-04 Revisión del diseño_1.doc
+|   |   |   |           ~$-07 - PE-7-04 Revisión del diseño_2.doc
+|   |   |   |           ~$-08-PE-7-04 Lista Maestra de Planos y Su Distribucion.doc
+|   |   |   |           ~$-4-01 Lista Maestra de Documentos y su Distribución.doc
+|   |   |   |           ~$-4-01 Lista Maestra de Documentos y su Distribución_1.doc
+|   |   |   |           ~$-4-02 CONTROL DE REGISTROS.doc
+|   |   |   |           ~$-4-02 CONTROL DE REGISTROS_1.doc
+|   |   |   |           ~$-4-02 CONTROL DE REGISTROS_2.doc
+|   |   |   |           ~$rátula manual de procedimientos IN IM.doc
+|   |   |   |           
+|   |   |   +---iso9001
+|   |   |   |       Check_List_ISO_9001_2000.doc
+|   |   |   |       guiaiso9001.pdf
+|   |   |   |       ISO 9001-2008.pdf
+|   |   |   |       
+|   |   |   \---ohsas
+|   |   |           08_gestion_seguridad_y_salud_ocupacional.pdf
+|   |   |           10960028 Sistema de Gestión de la Seguridad y Salud en el trabajo.pdf
+|   |   |           OHSAS 18001-2007(ES).pdf
+|   |   |           SSOOHSAS.pdf
+|   |   |           
+|   |   \---suseso
+|   |           Boletín SUSESO 2025 - Número 3.pdf
+|   |           Dictamen 1097-2021.pdf
+|   |           Dictamen 1144-2022.pdf
+|   |           Dictamen 130-2021.pdf
+|   |           Dictamen 175259-2024.pdf
+|   |           Dictamen 30-2022.pdf
+|   |           Dictamen 314-2022.pdf
+|   |           Dictamen 325-2023.pdf
+|   |           Dictamen 3308-2022.pdf
+|   |           Dictamen 4381-2021.pdf
+|   |           Dictamen 4501-2021.pdf
+|   |           Dictamen 4581-2022.pdf
+|   |           Dictamen 615-2022.pdf
+|   |           Dictamen 790-2022.pdf
+|   |           Dictamen 879-2021.pdf
+|   |           Dictamen O-01-ISESAT-01842-2024.pdf
+|   |           Dictamen O-01-S-00907-2023.pdf
+|   |           Dictamen O-01-S-01217-2024.pdf
+|   |           Dictamen O-01-S-02081-2025.pdf
+|   |           Dictamen R-01-ISESAT-133982-2023.pdf
+|   |           Más prevención, mejor seguridad Comités Paritarios de Higiene y Seguridad ante la SUSESO.pdf
+|   |           
+|   +---casos_prueba
+|   |       caso_001_hervidor.md
+|   |       caso_002_dermatitis.md
+|   |       
+|   +---catalogos
+|   +---ejemplos
+|   +---knowledge_base
+|   |   |   inventario_documental.xlsx
+|   |   |   
+|   |   \---reglas
+|   |           reglas_maestras.xlsx
+|   |           
+|   +---processed
+|   +---raw
+|   \---versionado_normativo
++---docs
+|   |   00_indice.md
+|   |   01_vision_proyecto.md
+|   |   02_objetivos.md
+|   |   03_arquitectura.md
+|   |   04_fuentes_datos.md
+|   |   05_diccionario_datos.md
+|   |   06_motor_reglas.md
+|   |   07_modelo_ia.md
+|   |   08_roadmap.md
+|   |   09_bitacora.md
+|   |   09_motor_razonamiento_experto.md
+|   |   10_base_conocimiento.md
+|   |   10_motor_aprendizaje.md
+|   |   11_actualizacion_normativa.md
+|   |   11_motor_normativo.md
+|   |   12_aprendizaje_operacional.md
+|   |   12_arquitectura_conocimiento.md
+|   |   13_modelo_conceptual.md
+|   |   14_diagrama_maestro.md
+|   |   15_motor_decision_inteligente.md
+|   |   17_base_reglas.md
+|   |   18_modelo_datos.md
+|   |   24_extractor_conocimiento.md
+|   |   25_principios_sistema_experto.md
+|   |   26_motor_contexto.md
+|   |   28_ontologia_previnspect_ai.md
+|   |   
+|   +---adr
+|   |       ADR-001_IA_Consume_Conocimiento_No_Lo_Reemplaza.md
+|   |       
+|   +---anexos
+|   |   |   glosario.md
+|   |   |   normativa.md
+|   |   |   referencias.md
+|   |   |   
+|   |   \---ADR
+|   |           ADR-001_Peligros_Emergentes_por_Interaccion.md
+|   |           ADR-002_Identidad_del_Peligro.md
+|   |           ADR-003_Knowledge_Graph_como_Nucleo.md
+|   |           ADR-004_Seleccion_Automatica_de_Metodologias.md
+|   |           ADR-005_Indice_Confianza_Ontologica.md
+|   |           
+|   +---architecture
+|   |       ARC-001_Arquitectura_Sistema_Gestion_Documental.md
+|   |       
+|   +---arquitectura
+|   |   |   ARC-001_Arquitectura_Documental.md
+|   |   |   ARC-002_Arquitectura_Sistema_Conocimiento.md
+|   |   |   ARC-003_Arquitectura_Motor_Inferencia.md
+|   |   |   ARC-004_Arquitectura_Tecnologica.md
+|   |   |   
+|   |   +---ARC-000_Plano_Maestro_Arquitectura.md
+|   |   +---diagramas
+|   |   \---imagenes
+|   +---conocimiento
+|   +---governance
+|   |       SGD-001_Sistema_Gestion_Documental.md
+|   |       
+|   +---standards
+|   |       STD-001_Estandar_Metadatos_Documentales.md
+|   |       STD-002_Especificacion_Estandares_Documentales.md
+|   |       
+|   \---vision
+|           VIS-001_Vision_y_Filosofia_PrevInspectAI.md
+|           
++---notebooks
++---ontology
+|   |   README.md
+|   |   
+|   +---classes
+|   |       01_trabajador.md
+|   |       02_empresa.md
+|   |       03_proceso.md
+|   |       04_tarea.md
+|   |       05_peligro.md
+|   |       06_riesgo.md
+|   |       07_medida_control.md
+|   |       08_evento.md
+|   |       09_evidencia.md
+|   |       10_normativa.md
+|   |       
+|   +---examples
+|   +---relations
+|   +---rules
+|   \---schemas
+|           plantilla_clase_ontologica.md
+|           
++---outputs
+|   +---graficos
+|   +---reportes
+|   \---tablas
+\---src
+    |   recomendador.py
+    |   reglas.py
+    |   utils.py
+    |   
+    +---extractores
+    |       extractor_conocimiento.py
+    |       parser_checklists.py
+    |       parser_diat.py
+    |       parser_excel.py
+    |       parser_normativa.py
+    |       parser_pdf.py
+    |       parser_word.py
+    |       
+    \---inteligencia
+            motor_contexto.py
+            
