@@ -1,270 +1,112 @@
-\# PrevInspect AI — Estado del Proyecto
+# STATUS — PrevInspect AI
 
+**Proyecto:** PrevInspect AI  
+**Estado:** Desarrollo arquitectónico y metodológico  
+**Última actualización:** 11-08-2026
 
+---
 
-> Documento operativo de continuidad.
+## 1. Estado general
 
-> Su finalidad es indicar rápidamente dónde se encuentra el proyecto,
+PrevInspect AI se encuentra en fase de definición arquitectónica, metodológica y de estructuración del conocimiento.
 
-> qué está terminado, qué está en desarrollo y cuál es el siguiente paso.
+La reorganización documental se mantiene controlada y no deben realizarse movimientos masivos de archivos históricos sin revisión previa.
 
->
+---
 
-> Este archivo debe actualizarse al finalizar cada sesión de trabajo.
+## 2. Últimos hitos completados
 
+### Sistema de continuidad documental
+Implementado mediante:
 
+- STATUS.md
+- LOG-001_Bitacora_Arquitectonica.md
 
-\---
+Objetivo:
+evitar duplicaciones, pérdida de contexto y repetición de trabajo entre sesiones.
 
+### MTH-001
 
+**Metodología para el Desarrollo de Sistemas Expertos Basados en Conocimiento**
 
-\## 1. Estado General
+Estado: ESTRUCTURA INICIAL COMPLETADA / EN REVISIÓN METODOLÓGICA
 
+Ubicación:
 
+`docs/methodology/MTH-001_Metodologia_Sistemas_Expertos_Basados_Conocimiento.md`
 
-\*\*Proyecto:\*\* PrevInspect AI  
+### MTH-002
 
-\*\*Fase actual:\*\* Diseño metodológico y arquitectónico  
+**Análisis Comparativo de Metodologías**
 
-\*\*Estado:\*\* En desarrollo  
+Estado: VERSIÓN PRELIMINAR COMPLETADA / EN VALIDACIÓN
 
-\*\*Última actualización:\*\* 2026-08-10
+Ubicación:
 
+`docs/methodology/MTH-002_Analisis_Comparativo_Metodologias.md`
 
+---
 
-\---
+## 3. Evidencia Git
 
+Commit MTH-001 y sistema de continuidad:
 
+`e55e33f`
 
-\## 2. Objetivo Actual
+Commit MTH-002:
 
+`ce6c00d`
 
+Repositorio sincronizado con `origin/main`.
 
-Formalizar la metodología utilizada para diseñar y desarrollar
+---
 
-sistemas expertos basados en conocimiento.
+## 4. Restricciones vigentes
 
+Por el momento NO realizar:
 
+- eliminación de documentación histórica;
+- movimientos masivos de archivos;
+- unificación de `architecture` y `arquitectura`;
+- eliminación o migración masiva de ontologías;
+- creación de nuevas familias documentales sin revisión previa;
+- duplicación de documentos ya existentes.
 
-El documento activo será:
+---
 
+## 5. Regla de inicio de sesión
 
+Antes de crear un nuevo documento:
 
-\*\*MTH-001 — Metodología para el Desarrollo de Sistemas Expertos Basados en Conocimiento\*\*
+1. revisar `STATUS.md`;
+2. revisar `LOG-001_Bitacora_Arquitectonica.md`;
+3. ejecutar `git status`;
+4. revisar los documentos existentes relacionados;
+5. confirmar que el documento propuesto no existe previamente.
 
+---
 
+## 6. Próximo paso
 
-\---
+Revisar críticamente MTH-001 a la luz de MTH-002 y de antecedentes metodológicos externos.
 
+El objetivo será clasificar los componentes de la metodología como:
 
+- Adoptados
+- Adaptados
+- Integrados
+- Propuestos
 
-\## 3. Secuencia de Trabajo Vigente
+Antes de crear MTH-003 deberá justificarse su necesidad y relación con MTH-001 y MTH-002.
 
+---
 
+## 7. Estado Git esperado
 
-La secuencia acordada es:
+Al cerrar cada sesión:
 
+`nothing to commit, working tree clean`
 
+y repositorio sincronizado con:
 
-MTH-001  
-
-↓  
-
-ARC-000 — Plano Maestro de la Arquitectura  
-
-↓  
-
-Revisión y clasificación de documentación histórica  
-
-↓  
-
-Reorganización definitiva del repositorio  
-
-↓  
-
-Continuación del Sistema de Conocimiento
-
-
-
-\---
-
-
-
-\## 4. Estado de Componentes Principales
-
-
-
-| Componente | Estado | Observación |
-
-|---|---|---|
-
-| VIS-001 | Completado | Visión y filosofía definidas |
-
-| SGD-001 | Completado | Sistema de Gestión Documental definido |
-
-| STD | En desarrollo | Existen estándares documentales |
-
-| ARC-001 | Revisión pendiente | Existen versiones que deben reconciliarse |
-
-| ARC-002 | En desarrollo | Arquitectura del Sistema de Conocimiento |
-
-| ARC-000 | Pendiente | Se desarrollará después de MTH-001 |
-
-| MTH-001 | Próximo / Activo | Prioridad actual |
-
-| Sistema de Conocimiento | En desarrollo | Estructura conceptual iniciada |
-
-| Motor de Inferencia | Planificado | Arquitectura pendiente de consolidación |
-
-| Arquitectura Tecnológica | Planificada | No desarrollar todavía |
-
-
-
-\---
-
-
-
-\## 5. Estado del Repositorio
-
-
-
-Se encuentran creadas las estructuras principales:
-
-
-
-\- docs/
-
-\- knowledge/
-
-\- ontology/
-
-\- data/
-
-\- src/
-
-\- app/
-
-\- notebooks/
-
-\- outputs/
-
-
-
-La carpeta `knowledge/` contiene la estructura inicial para:
-
-
-
-\- ontology
-
-\- taxonomy
-
-\- dictionary
-
-\- catalogs
-
-\- rules
-
-\- cases
-
-\- evidence
-
-\- relations
-
-\- versions
-
-
-
-\---
-
-
-
-\## 6. Asuntos Pendientes
-
-
-
-\### No resolver todavía
-
-
-
-\- Duplicidad entre `docs/architecture` y `docs/arquitectura`.
-
-\- Revisión de las distintas versiones de ARC-001.
-
-\- Clasificación de documentos históricos ubicados en `docs/`.
-
-\- Relación definitiva entre `ontology/` y `knowledge/ontology/`.
-
-\- Reorganización física definitiva del repositorio.
-
-
-
-Estos asuntos deben resolverse después de formalizar MTH-001 y ARC-000.
-
-
-
-\---
-
-
-
-\## 7. Regla de Continuidad
-
-
-
-Antes de iniciar una nueva sesión:
-
-
-
-1\. Leer `STATUS.md`.
-
-2\. Consultar la última entrada de la bitácora.
-
-3\. Revisar `git status`.
-
-4\. Confirmar el documento activo.
-
-5\. Evitar crear un documento nuevo sin comprobar previamente si ya existe.
-
-
-
-Al finalizar una sesión:
-
-
-
-1\. Actualizar `STATUS.md`.
-
-2\. Registrar lo realizado en la bitácora.
-
-3\. Registrar decisiones importantes.
-
-4\. Definir explícitamente el próximo paso.
-
-5\. Ejecutar `git status`.
-
-6\. Realizar commit.
-
-7\. Realizar push.
-
-
-
-\---
-
-
-
-\## 8. Próximo Paso
-
-
-
-Crear y desarrollar:
-
-
-
-\*\*MTH-001 — Metodología para el Desarrollo de Sistemas Expertos Basados en Conocimiento\*\*
-
-
-
-Hasta finalizar su estructura conceptual:
-
-
-
-\*\*NO reorganizar los documentos históricos del repositorio.\*\*
-
+`origin/main`

@@ -216,3 +216,60 @@ Crear la estructura inicial de MTH-001 y definir:
 
 \- relación entre metodología, conocimiento y tecnología.
 
+---
+
+## Sesión 11-08-2026
+
+### Verificación de continuidad
+
+Se realizó una auditoría del estado real del proyecto antes de continuar el desarrollo.
+
+Se verificó mediante archivos existentes e historial Git que:
+
+- MTH-001 se encuentra completado.
+- MTH-002 se encuentra completado.
+- ambos documentos fueron incorporados al repositorio;
+- el repositorio se encontraba sincronizado con `origin/main`;
+- STATUS.md mantenía como próximo paso la creación de MTH-001, información que había quedado desactualizada.
+
+### Corrección realizada
+
+Se actualizó STATUS.md para reflejar el estado real del proyecto.
+
+Se establece como regla que antes de crear un nuevo documento se deberá revisar:
+
+1. STATUS.md;
+2. LOG-001;
+3. git status;
+4. documentos relacionados existentes;
+5. historial Git cuando exista duda sobre trabajo previamente realizado.
+
+### Estado metodológico
+
+MTH-001 — COMPLETADO
+
+MTH-002 — COMPLETADO
+
+### Próximo paso
+
+Determinar el propósito, alcance y relación arquitectónica de MTH-003 antes de crearlo.
+
+### Principio de continuidad
+
+No asumir que un documento pendiente según una bitácora antigua continúa pendiente.
+
+La existencia física del documento y el historial Git deberán utilizarse como evidencia para determinar el estado real del proyecto.
+
+### Ajuste de estado documental
+
+Se corrigió la clasificación de MTH-001 y MTH-002 para evitar interpretar su existencia en Git como cierre metodológico definitivo.
+
+MTH-001 pasa a estado:
+
+**Estructura inicial completada / En revisión metodológica**
+
+MTH-002 pasa a estado:
+
+**Versión preliminar completada / En validación**
+
+Se establece que la existencia de un documento no implica automáticamente su aprobación o cierre.
