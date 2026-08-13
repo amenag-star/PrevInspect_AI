@@ -88,16 +88,20 @@ Antes de crear un nuevo documento:
 
 ## 6. Próximo paso
 
-Revisar críticamente MTH-001 a la luz de MTH-002 y de antecedentes metodológicos externos.
+Continuar el desarrollo de MTH-001 — Metodología para el Desarrollo de Sistemas Expertos Basados en Conocimiento.
 
-El objetivo será clasificar los componentes de la metodología como:
+Se encuentran desarrolladas preliminarmente las secciones:
 
-- Adoptados
-- Adaptados
-- Integrados
-- Propuestos
+- 1. Propósito;
+- 2. Alcance;
+- 3. Fundamentos de la Metodología;
+- 4.1 Independencia del conocimiento respecto de la tecnología.
 
-Antes de crear MTH-003 deberá justificarse su necesidad y relación con MTH-001 y MTH-002.
+Próximo punto de trabajo:
+
+**Sección 4.2 — Principios Metodológicos.**
+
+Las secciones desarrolladas permanecen en revisión metodológica y no deben interpretarse como aprobadas o cerradas definitivamente.
 
 ---
 

@@ -273,3 +273,25 @@ MTH-002 pasa a estado:
 **Versión preliminar completada / En validación**
 
 Se establece que la existencia de un documento no implica automáticamente su aprobación o cierre.
+
+
+### Sesión 12-08-2026 — Desarrollo de MTH-001
+
+Se continuó el desarrollo metodológico de MTH-001 — Metodología para el Desarrollo de Sistemas Expertos Basados en Conocimiento.
+
+Durante la sesión se desarrollaron preliminarmente:
+
+- 1. Propósito;
+- 2. Alcance;
+- 3. Fundamentos de la Metodología;
+- 4.1 Independencia del conocimiento respecto de la tecnología.
+
+Se mantiene como principio central:
+
+**La IA consume conocimiento; no lo reemplaza.**
+
+Las secciones desarrolladas permanecen en revisión metodológica y no se consideran cerradas ni aprobadas definitivamente.
+
+Próximo punto de trabajo:
+
+**Sección 4.2 — Principios Metodológicos.**
