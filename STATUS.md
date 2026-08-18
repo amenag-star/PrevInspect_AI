@@ -95,11 +95,20 @@ Se encuentran desarrolladas preliminarmente las secciones:
 - 1. Propósito;
 - 2. Alcance;
 - 3. Fundamentos de la Metodología;
-- 4.1 Independencia del conocimiento respecto de la tecnología.
+- 4.1 Independencia del conocimiento respecto de la tecnología;
+- 4.2 Trazabilidad del conocimiento;
+- 4.3 Validación del conocimiento;
+- 4.4 Vigencia y evolución del conocimiento.
+
+Durante el desarrollo de los principios 4.2 a 4.4 se estableció una distinción conceptual entre trazabilidad, validación, vigencia y evolución histórica del conocimiento.
+
+Se reconoce que las condiciones de vigencia y evolución pueden variar según la naturaleza de las fuentes, incluyendo disposiciones legales y reglamentarias, normas técnicas, documentos controlados, certificados, evidencias y otros antecedentes sujetos a versiones, fechas, partidas, lotes o condiciones específicas.
 
 Próximo punto de trabajo:
 
-**Sección 4.2 — Principios Metodológicos.**
+**Sección 4.5 — continuar el desarrollo de los Principios Metodológicos.**
+
+Antes de desarrollar 4.5 deberá revisarse la secuencia conceptual formada por los principios 4.1 a 4.4 y determinar el principio que corresponde incorporar a continuación.
 
 Las secciones desarrolladas permanecen en revisión metodológica y no deben interpretarse como aprobadas o cerradas definitivamente.
 

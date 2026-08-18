@@ -298,6 +298,130 @@ Este principio complementa la formulación establecida previamente:
 
 
 
+\### 4.2 Trazabilidad del conocimiento
+
+
+
+Todo conocimiento incorporado o utilizado por el sistema deberá poder ser relacionado, cuando corresponda, con su origen, fuente, evidencia, versión y estado de validación.
+
+
+
+La trazabilidad permite conocer de dónde proviene un elemento de conocimiento, qué antecedentes lo sustentan, qué transformaciones ha experimentado y bajo qué condiciones se encuentra vigente dentro del sistema.
+
+
+
+Este principio busca evitar que reglas, criterios, conceptos, relaciones o recomendaciones permanezcan aislados de los antecedentes que permiten justificar su existencia y utilización.
+
+
+
+La trazabilidad deberá mantenerse durante el ciclo de vida del conocimiento, incluyendo su incorporación, revisión, actualización, reemplazo, invalidación o retiro.
+
+
+
+Cuando una decisión o resultado del sistema utilice conocimiento sujeto a requisitos normativos, técnicos, documentales o expertos, deberá ser posible identificar los elementos de conocimiento relevantes que participaron en dicho proceso y, cuando corresponda, sus fuentes y evidencias asociadas.
+
+
+
+Este principio no establece todavía los mecanismos tecnológicos utilizados para implementar la trazabilidad. Estos deberán definirse en las capas y componentes correspondientes de la arquitectura.
+
+
+
+\*\*El conocimiento utilizado por el sistema debe poder rastrearse hasta los antecedentes que sustentan su utilización.\*\*
+
+
+
+\### 4.3 Validación del conocimiento
+
+
+
+El conocimiento incorporado al sistema deberá someterse a mecanismos de validación acordes con su naturaleza, origen, nivel de riesgo y contexto de utilización.
+
+
+
+La incorporación de una fuente, documento, norma, evidencia, certificado, criterio técnico o conocimiento experto no implica por sí misma que su contenido se encuentre validado para ser utilizado por el sistema.
+
+
+
+La validación deberá permitir determinar, cuando corresponda, la pertinencia, consistencia, vigencia y suficiencia del conocimiento respecto del propósito para el cual será utilizado.
+
+
+
+Los criterios y mecanismos de validación podrán variar según el tipo de conocimiento. El conocimiento normativo, técnico, documental, empírico o experto puede requerir fuentes, evidencias, responsables y procedimientos de validación diferentes.
+
+
+
+El estado de validación deberá mantenerse asociado al conocimiento y formar parte de su trazabilidad durante su ciclo de vida.
+
+
+
+La validación no deberá considerarse necesariamente permanente. Cuando una fuente, certificado, evidencia o documento posea vigencia temporal, se encuentre asociado a una partida, lote, versión o condición específica, o esté sujeto a revisión periódica, dichas condiciones deberán formar parte del control y estado de validación del conocimiento asociado.
+
+
+
+Cuando cambien las fuentes, evidencias, condiciones del dominio, versiones documentales o antecedentes que sustentan un elemento de conocimiento, deberá evaluarse la necesidad de una nueva validación.
+
+
+
+Este principio no supone que el sistema experto sustituya la competencia o responsabilidad de los especialistas encargados de determinar la validez jurídica, técnica, científica o profesional de una fuente o criterio.
+
+
+
+\*\*Incorporar conocimiento no significa validarlo; su utilización requiere determinar previamente bajo qué condiciones puede considerarse válido.\*\*
+
+
+
+\### 4.4 Vigencia y evolución del conocimiento
+
+
+
+El conocimiento gestionado por el sistema deberá mantener información suficiente para determinar su estado de vigencia y reconstruir su evolución a lo largo del tiempo.
+
+
+
+La incorporación de una nueva versión, modificación, sustitución, derogación o actualización de una fuente no deberá implicar necesariamente la eliminación del conocimiento anteriormente utilizado.
+
+
+
+Cuando corresponda, el sistema deberá permitir distinguir entre conocimiento vigente, modificado, sustituido, derogado, obsoleto o sujeto a revisión, conservando las relaciones necesarias para identificar qué elemento lo reemplazó, modificó o dejó sin efecto.
+
+
+
+Los mecanismos de evolución podrán variar según la naturaleza de la fuente. Entre otros casos, deberán considerarse:
+
+
+
+\* disposiciones legales o reglamentarias que sean modificadas, derogadas total o parcialmente o sustituidas por otras;
+
+\* normas técnicas que publiquen nuevas ediciones, versiones o modificaciones;
+
+\* documentos controlados de sistemas de gestión que sean revisados y sustituidos, conservándose las versiones anteriores como documentación obsoleta cuando corresponda;
+
+\* certificados, evidencias u otros antecedentes cuya validez dependa de fechas, períodos, partidas, lotes, versiones o condiciones determinadas.
+
+
+
+La conservación histórica deberá permitir reconstruir qué conocimiento se encontraba vigente, validado y disponible para utilización en un momento determinado.
+
+
+
+Cuando un elemento de conocimiento deje de estar vigente, su conservación histórica no deberá implicar que continúe habilitado para ser utilizado como conocimiento vigente por el sistema.
+
+
+
+Los cambios relevantes deberán conservar trazabilidad suficiente para identificar, cuando corresponda, la versión anterior, la nueva versión, la naturaleza del cambio, su fecha, su fuente y las razones que justificaron la modificación de su estado.
+
+
+
+Este principio permite que las decisiones o resultados históricos puedan interpretarse considerando el conocimiento que se encontraba disponible y vigente en el momento en que fueron producidos.
+
+
+
+\*\*El conocimiento puede cambiar de estado o ser sustituido; su evolución y contexto histórico deben permanecer trazables.\*\*
+
+
+
+
+
 \---
 
 

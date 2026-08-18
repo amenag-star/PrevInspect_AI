@@ -295,3 +295,29 @@ Las secciones desarrolladas permanecen en revisión metodológica y no se consid
 Próximo punto de trabajo:
 
 **Sección 4.2 — Principios Metodológicos.**
+
+### Sesión 17-08-2026 — Desarrollo de Principios Metodológicos de MTH-001
+
+Se continuó el desarrollo de MTH-001 — Metodología para el Desarrollo de Sistemas Expertos Basados en Conocimiento.
+
+Durante la sesión se desarrollaron preliminarmente los siguientes principios:
+
+- 4.2 Trazabilidad del conocimiento;
+- 4.3 Validación del conocimiento;
+- 4.4 Vigencia y evolución del conocimiento.
+
+Se estableció una distinción conceptual entre trazabilidad, validación, vigencia y evolución histórica del conocimiento.
+
+La trazabilidad permite identificar el origen, fuentes, evidencias, versiones y antecedentes que sustentan el conocimiento utilizado por el sistema.
+
+La validación determina bajo qué condiciones un elemento de conocimiento puede considerarse válido para su utilización, reconociendo que dicha validación puede depender de vigencia temporal, versiones, partidas, lotes, condiciones específicas o revisiones periódicas.
+
+La vigencia y evolución permiten controlar cambios derivados, entre otros casos, de modificaciones o derogaciones legales y reglamentarias, nuevas versiones de normas técnicas, sustitución de documentos controlados y cambios en certificados o evidencias.
+
+Se establece que la sustitución o pérdida de vigencia de un elemento de conocimiento no implica necesariamente su eliminación. Cuando corresponda, deberá conservarse como antecedente histórico para permitir reconstruir qué conocimiento se encontraba vigente, validado y disponible en un momento determinado.
+
+Se mantiene como criterio que las secciones desarrolladas permanecen en revisión metodológica y no se consideran cerradas ni aprobadas definitivamente.
+
+Próximo punto de trabajo:
+
+**Revisar la secuencia conceptual de los principios 4.1 a 4.4 y determinar el contenido de la Sección 4.5.**
