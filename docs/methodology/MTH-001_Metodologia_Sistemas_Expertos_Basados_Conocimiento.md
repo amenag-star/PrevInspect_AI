@@ -420,6 +420,58 @@ Este principio permite que las decisiones o resultados históricos puedan interp
 
 
 
+\### 4.5 Inferencia sustentada en conocimiento
+
+
+
+Las inferencias, conclusiones, glosas, recomendaciones, acciones o directrices generadas por un sistema experto deberán encontrarse sustentadas en conocimiento identificable, trazable, validado y vigente bajo las condiciones aplicables al contexto analizado.
+
+
+
+El sistema deberá mantener una distinción conceptual entre las fuentes que proporcionan conocimiento, las evidencias que describen o acreditan una condición y las inferencias que se obtienen a partir de dichos antecedentes.
+
+
+
+Una inferencia generada por el sistema no deberá presentarse como si correspondiera directamente al contenido de una fuente, norma, disposición legal o reglamentaria, certificado, documento técnico, evidencia de inspección u otro antecedente utilizado para sustentarla.
+
+
+
+Cuando el conocimiento disponible sea suficiente y consistente para sustentar una inferencia, el sistema podrá generar resultados y proponer recomendaciones, acciones o directrices, manteniendo la relación con los elementos de conocimiento y evidencias relevantes que participaron en su elaboración.
+
+
+
+Cuando existan contradicciones entre fuentes, documentos, versiones, requisitos, evidencias u otros antecedentes relevantes, el sistema deberá identificar y documentar dicha condición, permitiendo reconocer entre qué elementos se produce la discrepancia o inconsistencia.
+
+
+
+La existencia de información contradictoria no deberá ser ocultada mediante la generación de una conclusión aparentemente definitiva cuando dicha contradicción pueda afectar materialmente el resultado de la inferencia.
+
+
+
+Cuando el conocimiento disponible resulte insuficiente para sustentar adecuadamente una inferencia, el sistema deberá poder declarar dicha insuficiencia e identificar, cuando sea posible, los antecedentes adicionales requeridos para continuar el análisis.
+
+
+
+En situaciones de contradicción, insuficiencia o incertidumbre que requieran interpretación o pronunciamiento externo, el sistema podrá recomendar la revisión por un especialista competente o la consulta a la autoridad, organismo o institución que corresponda. El sistema no deberá atribuir a dichos terceros una interpretación, decisión o respuesta que no haya sido efectivamente obtenida y registrada como antecedente.
+
+
+
+Los nuevos antecedentes obtenidos como resultado de estas revisiones o consultas deberán incorporarse al sistema de conocimiento conforme a los principios de trazabilidad, validación, vigencia y evolución establecidos en esta metodología antes de ser utilizados para sustentar nuevas inferencias.
+
+
+
+El resultado de una inferencia deberá conservar, cuando corresponda, información suficiente para reconstruir los principales antecedentes utilizados y comprender el fundamento de la conclusión o recomendación generada.
+
+
+
+Este principio no determina todavía los algoritmos, modelos de inteligencia artificial, motores de inferencia o mecanismos tecnológicos utilizados para producir dichas inferencias. Estos deberán definirse posteriormente en las capas y componentes correspondientes de la arquitectura.
+
+
+
+\*\*El conocimiento sustenta la inferencia; toda inferencia relevante debe poder relacionarse con el conocimiento y las evidencias que la sustentan.\*\*
+
+
+
 
 
 \---

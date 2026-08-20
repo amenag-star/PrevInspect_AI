@@ -321,3 +321,33 @@ Se mantiene como criterio que las secciones desarrolladas permanecen en revisió
 Próximo punto de trabajo:
 
 **Revisar la secuencia conceptual de los principios 4.1 a 4.4 y determinar el contenido de la Sección 4.5.**
+
+### Sesión 19-08-2026 — Desarrollo del principio 4.5 de MTH-001
+
+Se continuó el desarrollo de MTH-001 — Metodología para el Desarrollo de Sistemas Expertos Basados en Conocimiento.
+
+Durante la sesión se desarrolló preliminarmente el principio:
+
+- 4.5 Inferencia sustentada en conocimiento.
+
+Se estableció que las inferencias, glosas, recomendaciones, directrices o acciones sugeridas por el sistema deberán sustentarse en conocimiento identificable, trazable, validado y vigente conforme a las condiciones aplicables.
+
+Se definió que el sistema deberá permitir relacionar sus resultados con las fuentes y antecedentes que los sustentan, tales como documentos técnicos, certificados, inspecciones, disposiciones legales y reglamentarias, normas, evidencias y otros elementos de conocimiento pertinentes.
+
+Asimismo, se estableció que, cuando existan fuentes contradictorias, inconsistentes o insuficientes para sustentar adecuadamente una inferencia, el sistema deberá identificar y documentar dicha situación, indicando los antecedentes entre los cuales se presenta la discrepancia o insuficiencia.
+
+Cuando corresponda, el sistema podrá recomendar la obtención de antecedentes adicionales o la consulta o pronunciamiento de la autoridad, organismo, institución o especialista competente, sin limitar metodológicamente dicha consulta a una lista predeterminada de instituciones.
+
+Se mantiene como principio central:
+
+**La IA consume conocimiento; no lo reemplaza.**
+
+Y como criterio complementario:
+
+**La IA puede inferir sobre el conocimiento disponible, pero debe poder explicar sobre qué conocimiento sustenta su inferencia.**
+
+Las secciones desarrolladas permanecen en revisión metodológica y no se consideran cerradas ni aprobadas definitivamente.
+
+Próximo punto de trabajo:
+
+**Revisar la secuencia conceptual de los principios 4.1 a 4.5 y determinar el siguiente principio metodológico o el cierre de la Sección 4.**

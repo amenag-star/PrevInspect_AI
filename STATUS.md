@@ -99,6 +99,7 @@ Se encuentran desarrolladas preliminarmente las secciones:
 - 4.2 Trazabilidad del conocimiento;
 - 4.3 Validación del conocimiento;
 - 4.4 Vigencia y evolución del conocimiento.
+- 4.5 Inferencia sustentada en conocimiento.
 
 Durante el desarrollo de los principios 4.2 a 4.4 se estableció una distinción conceptual entre trazabilidad, validación, vigencia y evolución histórica del conocimiento.
 
@@ -106,11 +107,11 @@ Se reconoce que las condiciones de vigencia y evolución pueden variar según la
 
 Próximo punto de trabajo:
 
-**Sección 4.5 — continuar el desarrollo de los Principios Metodológicos.**
+**Revisar la secuencia conceptual de los principios 4.1 a 4.5 y determinar el siguiente principio metodológico o el cierre de la Sección 4.**
 
-Antes de desarrollar 4.5 deberá revisarse la secuencia conceptual formada por los principios 4.1 a 4.4 y determinar el principio que corresponde incorporar a continuación.
+Durante la revisión deberá verificarse la coherencia entre independencia tecnológica, trazabilidad, validación, vigencia y evolución, e inferencia sustentada en conocimiento.
 
-Las secciones desarrolladas permanecen en revisión metodológica y no deben interpretarse como aprobadas o cerradas definitivamente.
+También deberá evaluarse si corresponde incorporar un nuevo principio o avanzar a la Sección 5 — Capas del Sistema.
 
 ---
 
